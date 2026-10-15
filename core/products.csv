@@ -1,0 +1,61 @@
+product_id,product_name,category,active
+P001,Steel cup,Kitchen,1
+P002,Lunch box,Kitchen,1
+P003,Storage jar,Kitchen,1
+P004,Serving bowl,Kitchen,1
+P005,Water bottle,Kitchen,1
+P006,Tea strainer,Kitchen,1
+P007,Measuring cup,Kitchen,1
+P008,Spice box,Kitchen,1
+P009,Plate set,Kitchen,1
+P010,Cutting board,Kitchen,1
+P011,Pan,Kitchen,1
+P012,Kettle,Kitchen,1
+P013,Cleaning cloth,Home care,1
+P014,Scrub pad,Home care,1
+P015,Floor brush,Home care,1
+P016,Dustpan,Home care,1
+P017,Laundry bag,Home care,1
+P018,Storage basket,Home care,1
+P019,Mop,Home care,1
+P020,Waste bin,Home care,1
+P021,Hanger set,Home care,1
+P022,Shoe rack,Home care,1
+P023,Door mat,Home care,1
+P024,Laundry stand,Home care,1
+P025,Notebook,Stationery,1
+P026,Pen pack,Stationery,1
+P027,Pencil pack,Stationery,1
+P028,Eraser pack,Stationery,1
+P029,Ruler,Stationery,1
+P030,Folder,Stationery,1
+P031,Marker pack,Stationery,1
+P032,Drawing pad,Stationery,1
+P033,Stapler,Stationery,1
+P034,Desk tray,Stationery,1
+P035,Planner,Stationery,1
+P036,Paper pack,Stationery,1
+P037,Soap pack,Personal care,1
+P038,Shampoo,Personal care,1
+P039,Hand wash,Personal care,1
+P040,Toothbrush pack,Personal care,1
+P041,Body lotion,Personal care,1
+P042,Comb,Personal care,1
+P043,Face towel,Personal care,1
+P044,Travel pouch,Personal care,1
+P045,Hair oil,Personal care,1
+P046,Sunscreen,Personal care,1
+P047,Grooming kit,Personal care,1
+P048,Bath towel,Personal care,1
+P049,USB cable,Electronics,1
+P050,Mouse,Electronics,1
+P051,Keyboard,Electronics,1
+P052,USB hub,Electronics,1
+P053,Desk light,Electronics,1
+P054,Earphones,Electronics,1
+P055,Power bank,Electronics,1
+P056,Speaker,Electronics,1
+P057,Webcam,Electronics,1
+P058,Router,Electronics,1
+P059,Monitor,Electronics,1
+P060,Tablet,Electronics,1

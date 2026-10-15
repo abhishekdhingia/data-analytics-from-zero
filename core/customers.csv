@@ -1,0 +1,2501 @@
+customer_id,enrollment_date,segment
+C00001,2023-02-21,Household
+C00002,2022-02-21,Household
+C00003,2022-02-14,Small business
+C00004,2023-06-28,Small business
+C00005,2022-03-12,Household
+C00006,2023-02-08,Household
+C00007,2022-06-24,Household
+C00008,2023-07-24,Small business
+C00009,2022-08-27,Household
+C00010,2023-09-14,Small business
+C00011,2023-11-03,Student
+C00012,2023-03-24,Household
+C00013,2023-07-07,Household
+C00014,2022-03-27,Student
+C00015,2022-10-10,Small business
+C00016,2023-08-12,Small business
+C00017,2023-10-31,Student
+C00018,2023-09-27,Household
+C00019,2022-10-26,Small business
+C00020,2022-04-08,Household
+C00021,2023-02-05,Student
+C00022,2023-07-17,Student
+C00023,2022-03-15,Student
+C00024,2023-09-20,Household
+C00025,2022-01-06,Student
+C00026,2022-05-10,Student
+C00027,2022-11-25,Small business
+C00028,2023-06-26,Household
+C00029,2023-02-25,Student
+C00030,2022-03-18,Student
+C00031,2023-05-29,Household
+C00032,2023-02-15,Small business
+C00033,2022-09-19,Small business
+C00034,2022-03-22,Household
+C00035,2022-11-21,Household
+C00036,2022-03-04,Household
+C00037,2023-01-07,Student
+C00038,2023-06-27,Household
+C00039,2023-05-05,Household
+C00040,2022-12-18,Student
+C00041,2022-06-22,Small business
+C00042,2023-05-11,Student
+C00043,2022-07-15,Small business
+C00044,2022-03-25,Student
+C00045,2022-03-30,Small business
+C00046,2023-06-07,Household
+C00047,2022-01-29,Student
+C00048,2022-06-18,Household
+C00049,2022-05-25,Student
+C00050,2023-04-28,Student
+C00051,2022-09-20,Household
+C00052,2022-06-06,Household
+C00053,2023-03-11,Household
+C00054,2023-04-19,Small business
+C00055,2022-01-13,Household
+C00056,2022-04-28,Household
+C00057,2022-06-20,Household
+C00058,2022-05-20,Household
+C00059,2023-02-21,Household
+C00060,2023-05-24,Household
+C00061,2022-07-23,Small business
+C00062,2023-07-18,Small business
+C00063,2022-11-14,Household
+C00064,2023-11-12,Household
+C00065,2023-09-14,Small business
+C00066,2023-06-22,Student
+C00067,2022-09-16,Student
+C00068,2023-04-05,Household
+C00069,2023-07-29,Student
+C00070,2022-01-02,Household
+C00071,2022-07-24,Household
+C00072,2023-08-16,Household
+C00073,2023-03-24,Small business
+C00074,2023-07-12,Student
+C00075,2022-06-14,Student
+C00076,2023-08-09,Small business
+C00077,2023-02-24,Student
+C00078,2023-04-07,Small business
+C00079,2023-08-16,Student
+C00080,2023-02-14,Household
+C00081,2022-12-18,Household
+C00082,2023-11-26,Household
+C00083,2023-03-20,Household
+C00084,2022-08-26,Student
+C00085,2022-01-21,Small business
+C00086,2022-04-30,Small business
+C00087,2023-02-15,Household
+C00088,2023-02-15,Household
+C00089,2022-04-11,Household
+C00090,2022-09-10,Small business
+C00091,2022-01-05,Household
+C00092,2022-03-11,Small business
+C00093,2022-05-13,Small business
+C00094,2023-04-15,Student
+C00095,2023-09-28,Student
+C00096,2022-02-04,Small business
+C00097,2023-08-01,Student
+C00098,2023-10-20,Household
+C00099,2023-08-27,Small business
+C00100,2022-01-15,Student
+C00101,2023-02-25,Small business
+C00102,2022-01-17,Student
+C00103,2023-06-09,Student
+C00104,2022-02-27,Student
+C00105,2023-07-05,Household
+C00106,2022-12-11,Small business
+C00107,2022-05-10,Small business
+C00108,2023-07-25,Small business
+C00109,2022-05-07,Household
+C00110,2023-11-23,Household
+C00111,2023-10-24,Student
+C00112,2022-06-10,Student
+C00113,2023-03-15,Household
+C00114,2022-08-28,Household
+C00115,2023-06-09,Small business
+C00116,2023-09-13,Student
+C00117,2023-10-05,Student
+C00118,2022-12-23,Household
+C00119,2022-09-16,Student
+C00120,2022-04-26,Small business
+C00121,2022-06-25,Household
+C00122,2022-05-07,Household
+C00123,2023-04-06,Small business
+C00124,2023-07-22,Household
+C00125,2022-12-25,Small business
+C00126,2023-02-28,Small business
+C00127,2023-05-28,Small business
+C00128,2023-06-01,Student
+C00129,2023-06-01,Student
+C00130,2022-03-18,Small business
+C00131,2023-05-02,Student
+C00132,2023-04-06,Student
+C00133,2023-05-16,Small business
+C00134,2022-05-17,Student
+C00135,2023-08-12,Small business
+C00136,2023-03-01,Student
+C00137,2023-04-23,Student
+C00138,2022-06-30,Household
+C00139,2023-05-06,Small business
+C00140,2023-07-30,Student
+C00141,2023-02-18,Student
+C00142,2023-08-15,Student
+C00143,2022-06-01,Small business
+C00144,2023-07-17,Household
+C00145,2023-04-27,Household
+C00146,2022-05-04,Household
+C00147,2023-01-14,Small business
+C00148,2022-09-02,Student
+C00149,2022-04-20,Small business
+C00150,2022-03-05,Small business
+C00151,2022-12-05,Student
+C00152,2022-06-03,Student
+C00153,2022-03-29,Small business
+C00154,2023-06-24,Household
+C00155,2022-01-07,Small business
+C00156,2022-10-04,Small business
+C00157,2023-05-01,Small business
+C00158,2023-11-13,Small business
+C00159,2022-08-06,Small business
+C00160,2023-09-15,Household
+C00161,2022-10-20,Small business
+C00162,2023-09-20,Small business
+C00163,2023-03-25,Small business
+C00164,2023-09-07,Small business
+C00165,2023-07-15,Household
+C00166,2022-06-16,Student
+C00167,2022-05-17,Household
+C00168,2023-09-15,Small business
+C00169,2023-04-06,Small business
+C00170,2023-11-21,Student
+C00171,2022-04-02,Small business
+C00172,2023-09-16,Small business
+C00173,2023-07-12,Household
+C00174,2022-09-06,Student
+C00175,2023-05-28,Small business
+C00176,2022-05-18,Household
+C00177,2022-01-10,Small business
+C00178,2023-06-19,Small business
+C00179,2022-01-01,Household
+C00180,2023-03-24,Small business
+C00181,2023-11-17,Household
+C00182,2023-03-27,Small business
+C00183,2023-07-20,Household
+C00184,2022-11-05,Household
+C00185,2022-08-12,Small business
+C00186,2022-04-14,Household
+C00187,2022-08-02,Small business
+C00188,2022-01-02,Household
+C00189,2023-11-14,Small business
+C00190,2022-10-01,Small business
+C00191,2023-10-22,Household
+C00192,2022-04-09,Household
+C00193,2023-06-22,Household
+C00194,2022-12-14,Household
+C00195,2023-09-01,Household
+C00196,2022-02-02,Household
+C00197,2022-07-24,Student
+C00198,2022-09-17,Small business
+C00199,2022-08-22,Small business
+C00200,2022-03-26,Household
+C00201,2022-07-21,Small business
+C00202,2023-10-29,Small business
+C00203,2023-02-12,Small business
+C00204,2023-05-05,Household
+C00205,2023-02-27,Household
+C00206,2023-07-22,Student
+C00207,2023-06-17,Small business
+C00208,2022-02-15,Student
+C00209,2023-08-31,Student
+C00210,2022-02-23,Household
+C00211,2023-09-06,Household
+C00212,2023-01-04,Household
+C00213,2022-03-11,Student
+C00214,2023-11-17,Household
+C00215,2023-01-10,Household
+C00216,2023-01-31,Household
+C00217,2023-01-01,Household
+C00218,2022-03-04,Student
+C00219,2022-01-23,Small business
+C00220,2022-03-04,Household
+C00221,2022-06-12,Household
+C00222,2023-04-01,Small business
+C00223,2022-10-15,Small business
+C00224,2022-12-03,Student
+C00225,2023-07-13,Student
+C00226,2023-10-19,Small business
+C00227,2022-05-27,Household
+C00228,2023-05-24,Small business
+C00229,2022-09-05,Household
+C00230,2023-08-25,Student
+C00231,2022-07-28,Small business
+C00232,2023-08-25,Household
+C00233,2022-08-29,Student
+C00234,2022-10-06,Household
+C00235,2023-08-02,Small business
+C00236,2022-05-23,Household
+C00237,2022-10-16,Student
+C00238,2023-06-29,Student
+C00239,2023-07-04,Student
+C00240,2023-07-30,Household
+C00241,2022-09-01,Student
+C00242,2023-10-01,Student
+C00243,2022-12-20,Household
+C00244,2023-04-08,Small business
+C00245,2022-06-11,Student
+C00246,2022-08-03,Household
+C00247,2023-07-09,Household
+C00248,2022-04-28,Student
+C00249,2022-12-13,Household
+C00250,2023-04-30,Small business
+C00251,2022-01-09,Household
+C00252,2023-10-13,Student
+C00253,2022-12-29,Student
+C00254,2023-01-12,Student
+C00255,2022-02-01,Small business
+C00256,2022-05-13,Small business
+C00257,2023-10-18,Household
+C00258,2023-03-02,Small business
+C00259,2022-11-15,Small business
+C00260,2023-03-18,Student
+C00261,2023-03-20,Student
+C00262,2023-01-16,Small business
+C00263,2022-06-24,Student
+C00264,2022-09-25,Household
+C00265,2023-09-29,Household
+C00266,2022-05-18,Household
+C00267,2022-05-15,Household
+C00268,2023-10-16,Household
+C00269,2022-10-08,Small business
+C00270,2023-07-27,Household
+C00271,2022-10-31,Household
+C00272,2023-02-16,Household
+C00273,2022-02-14,Student
+C00274,2023-11-16,Small business
+C00275,2023-09-16,Small business
+C00276,2023-10-25,Small business
+C00277,2022-09-28,Small business
+C00278,2022-04-06,Student
+C00279,2022-07-20,Small business
+C00280,2023-07-23,Small business
+C00281,2023-08-29,Household
+C00282,2023-05-03,Student
+C00283,2023-01-22,Student
+C00284,2023-07-24,Small business
+C00285,2022-04-26,Household
+C00286,2023-01-25,Small business
+C00287,2023-09-07,Student
+C00288,2022-08-19,Student
+C00289,2022-02-21,Small business
+C00290,2023-02-04,Student
+C00291,2023-01-16,Student
+C00292,2023-01-21,Student
+C00293,2022-02-28,Household
+C00294,2022-10-18,Household
+C00295,2023-02-26,Small business
+C00296,2023-07-03,Household
+C00297,2023-01-21,Student
+C00298,2023-02-04,Small business
+C00299,2022-05-29,Small business
+C00300,2022-09-13,Household
+C00301,2023-07-28,Student
+C00302,2022-10-20,Household
+C00303,2022-03-09,Small business
+C00304,2022-05-18,Student
+C00305,2023-03-13,Small business
+C00306,2023-02-14,Small business
+C00307,2022-05-28,Student
+C00308,2022-09-30,Household
+C00309,2022-03-03,Student
+C00310,2022-09-29,Household
+C00311,2023-07-27,Small business
+C00312,2022-04-18,Student
+C00313,2023-06-29,Student
+C00314,2022-01-14,Small business
+C00315,2023-10-19,Household
+C00316,2023-04-18,Small business
+C00317,2022-05-24,Household
+C00318,2023-02-28,Household
+C00319,2022-12-15,Student
+C00320,2023-02-24,Household
+C00321,2022-03-17,Student
+C00322,2022-05-31,Student
+C00323,2022-11-01,Household
+C00324,2023-09-08,Student
+C00325,2023-02-21,Household
+C00326,2022-11-22,Household
+C00327,2022-11-07,Small business
+C00328,2023-02-13,Student
+C00329,2022-01-25,Small business
+C00330,2022-06-08,Household
+C00331,2022-06-20,Student
+C00332,2022-08-31,Small business
+C00333,2022-09-01,Household
+C00334,2023-04-19,Household
+C00335,2023-08-11,Household
+C00336,2022-02-02,Household
+C00337,2023-01-11,Household
+C00338,2022-07-27,Small business
+C00339,2022-07-12,Household
+C00340,2022-08-15,Small business
+C00341,2023-01-11,Small business
+C00342,2022-11-02,Student
+C00343,2022-08-05,Household
+C00344,2022-01-24,Household
+C00345,2022-09-23,Household
+C00346,2022-03-12,Student
+C00347,2023-08-25,Household
+C00348,2022-09-30,Small business
+C00349,2022-10-12,Student
+C00350,2022-10-29,Small business
+C00351,2022-11-21,Household
+C00352,2022-06-07,Household
+C00353,2023-03-16,Small business
+C00354,2023-08-19,Student
+C00355,2022-12-30,Student
+C00356,2022-11-10,Household
+C00357,2022-12-16,Student
+C00358,2022-02-20,Small business
+C00359,2022-09-04,Household
+C00360,2023-10-06,Student
+C00361,2023-09-12,Small business
+C00362,2022-01-15,Household
+C00363,2022-04-19,Household
+C00364,2022-08-14,Student
+C00365,2023-03-03,Small business
+C00366,2022-12-25,Student
+C00367,2023-05-23,Student
+C00368,2023-07-04,Small business
+C00369,2022-12-28,Household
+C00370,2022-02-15,Household
+C00371,2023-06-09,Small business
+C00372,2023-08-31,Household
+C00373,2023-11-22,Household
+C00374,2023-02-07,Household
+C00375,2022-07-15,Household
+C00376,2023-04-03,Small business
+C00377,2023-08-01,Small business
+C00378,2022-02-27,Student
+C00379,2023-08-13,Small business
+C00380,2023-07-22,Small business
+C00381,2022-05-19,Small business
+C00382,2023-07-10,Small business
+C00383,2022-01-11,Small business
+C00384,2022-07-11,Small business
+C00385,2023-04-16,Student
+C00386,2022-03-25,Small business
+C00387,2023-06-02,Small business
+C00388,2022-08-11,Small business
+C00389,2023-03-27,Student
+C00390,2023-08-23,Small business
+C00391,2022-12-05,Household
+C00392,2023-10-24,Student
+C00393,2023-08-31,Student
+C00394,2023-09-04,Student
+C00395,2023-03-02,Household
+C00396,2022-12-18,Small business
+C00397,2023-09-27,Household
+C00398,2023-04-19,Student
+C00399,2022-11-18,Small business
+C00400,2023-05-28,Household
+C00401,2022-07-23,Household
+C00402,2023-04-22,Household
+C00403,2022-05-04,Household
+C00404,2022-09-16,Student
+C00405,2023-11-22,Student
+C00406,2022-05-07,Small business
+C00407,2022-02-13,Small business
+C00408,2023-01-17,Student
+C00409,2022-08-21,Small business
+C00410,2022-12-26,Student
+C00411,2022-06-01,Household
+C00412,2022-01-15,Small business
+C00413,2022-04-03,Household
+C00414,2023-08-13,Student
+C00415,2023-05-11,Student
+C00416,2023-05-17,Student
+C00417,2023-09-14,Small business
+C00418,2022-05-07,Household
+C00419,2022-10-15,Student
+C00420,2023-03-25,Household
+C00421,2022-08-16,Small business
+C00422,2023-04-15,Household
+C00423,2023-11-17,Household
+C00424,2022-10-08,Household
+C00425,2023-03-23,Student
+C00426,2023-03-16,Household
+C00427,2023-08-07,Small business
+C00428,2023-09-02,Small business
+C00429,2022-09-30,Student
+C00430,2022-11-23,Student
+C00431,2023-03-20,Student
+C00432,2022-08-11,Household
+C00433,2023-09-14,Student
+C00434,2022-11-25,Household
+C00435,2023-02-08,Household
+C00436,2022-02-14,Household
+C00437,2022-10-13,Household
+C00438,2023-01-14,Household
+C00439,2022-09-29,Student
+C00440,2022-02-25,Student
+C00441,2022-10-21,Household
+C00442,2023-06-13,Household
+C00443,2022-01-02,Household
+C00444,2023-08-19,Small business
+C00445,2022-05-12,Small business
+C00446,2022-06-05,Small business
+C00447,2022-10-30,Household
+C00448,2023-04-26,Student
+C00449,2022-07-13,Household
+C00450,2022-10-18,Student
+C00451,2022-05-31,Small business
+C00452,2023-03-02,Household
+C00453,2023-09-13,Small business
+C00454,2023-04-16,Household
+C00455,2023-04-14,Household
+C00456,2022-05-06,Small business
+C00457,2023-03-13,Student
+C00458,2022-12-21,Small business
+C00459,2022-12-09,Small business
+C00460,2022-05-21,Household
+C00461,2023-01-19,Small business
+C00462,2023-08-14,Student
+C00463,2022-07-23,Small business
+C00464,2023-02-10,Household
+C00465,2023-01-01,Student
+C00466,2022-07-18,Household
+C00467,2023-05-23,Small business
+C00468,2023-11-30,Small business
+C00469,2023-01-10,Small business
+C00470,2022-10-18,Student
+C00471,2022-07-19,Household
+C00472,2023-09-02,Student
+C00473,2022-03-12,Student
+C00474,2022-05-29,Household
+C00475,2022-07-13,Household
+C00476,2023-10-08,Student
+C00477,2022-01-16,Student
+C00478,2023-02-07,Student
+C00479,2022-10-16,Household
+C00480,2023-03-23,Small business
+C00481,2023-10-25,Household
+C00482,2023-05-17,Student
+C00483,2022-09-17,Small business
+C00484,2022-06-01,Household
+C00485,2022-01-20,Student
+C00486,2022-08-16,Small business
+C00487,2022-03-11,Household
+C00488,2022-12-04,Student
+C00489,2022-06-17,Small business
+C00490,2023-05-05,Household
+C00491,2023-03-04,Small business
+C00492,2023-01-11,Household
+C00493,2023-10-11,Student
+C00494,2023-11-16,Household
+C00495,2022-03-23,Small business
+C00496,2022-09-28,Household
+C00497,2023-01-06,Student
+C00498,2023-02-25,Small business
+C00499,2022-01-06,Household
+C00500,2023-06-17,Small business
+C00501,2022-01-19,Student
+C00502,2023-05-27,Small business
+C00503,2023-09-11,Student
+C00504,2022-08-26,Student
+C00505,2022-06-14,Small business
+C00506,2023-10-19,Household
+C00507,2022-01-18,Student
+C00508,2023-03-27,Household
+C00509,2023-11-28,Household
+C00510,2022-09-04,Household
+C00511,2023-11-27,Household
+C00512,2023-07-15,Small business
+C00513,2023-03-19,Student
+C00514,2023-05-15,Student
+C00515,2023-10-28,Household
+C00516,2022-05-07,Student
+C00517,2022-10-06,Household
+C00518,2023-08-03,Household
+C00519,2023-06-07,Household
+C00520,2022-01-11,Household
+C00521,2023-08-02,Small business
+C00522,2023-07-31,Small business
+C00523,2022-05-24,Small business
+C00524,2022-06-07,Small business
+C00525,2023-07-17,Small business
+C00526,2023-07-01,Small business
+C00527,2023-06-22,Household
+C00528,2023-01-15,Household
+C00529,2023-03-17,Household
+C00530,2023-02-27,Student
+C00531,2022-04-05,Household
+C00532,2023-07-04,Student
+C00533,2022-12-10,Household
+C00534,2022-12-10,Student
+C00535,2023-03-27,Small business
+C00536,2022-02-02,Small business
+C00537,2022-06-30,Small business
+C00538,2023-07-27,Small business
+C00539,2022-10-14,Household
+C00540,2022-02-28,Student
+C00541,2023-06-04,Household
+C00542,2022-12-08,Student
+C00543,2022-09-28,Small business
+C00544,2023-11-17,Household
+C00545,2023-06-21,Student
+C00546,2022-09-02,Student
+C00547,2022-09-21,Household
+C00548,2022-04-21,Household
+C00549,2022-08-21,Student
+C00550,2023-03-20,Household
+C00551,2022-06-14,Household
+C00552,2022-02-11,Student
+C00553,2023-07-07,Small business
+C00554,2023-10-27,Household
+C00555,2022-03-16,Small business
+C00556,2023-10-03,Household
+C00557,2022-01-06,Small business
+C00558,2023-03-25,Household
+C00559,2023-03-03,Household
+C00560,2023-07-13,Student
+C00561,2022-12-02,Small business
+C00562,2023-08-07,Small business
+C00563,2023-05-03,Student
+C00564,2023-09-23,Small business
+C00565,2023-11-04,Household
+C00566,2022-01-13,Small business
+C00567,2023-11-27,Student
+C00568,2023-01-03,Student
+C00569,2023-01-27,Household
+C00570,2022-07-27,Student
+C00571,2023-03-18,Small business
+C00572,2023-08-18,Student
+C00573,2022-12-08,Student
+C00574,2023-08-19,Student
+C00575,2022-01-28,Student
+C00576,2023-08-10,Household
+C00577,2023-01-15,Small business
+C00578,2022-07-10,Household
+C00579,2023-06-18,Small business
+C00580,2022-03-28,Household
+C00581,2022-04-21,Small business
+C00582,2023-01-26,Household
+C00583,2023-11-11,Small business
+C00584,2022-10-27,Student
+C00585,2022-09-09,Household
+C00586,2022-10-12,Household
+C00587,2022-12-08,Household
+C00588,2023-07-27,Student
+C00589,2023-06-15,Small business
+C00590,2023-11-22,Small business
+C00591,2022-09-05,Household
+C00592,2022-01-01,Student
+C00593,2023-04-08,Small business
+C00594,2023-04-25,Small business
+C00595,2022-11-06,Household
+C00596,2022-07-25,Student
+C00597,2022-11-21,Household
+C00598,2022-02-21,Small business
+C00599,2022-10-16,Student
+C00600,2022-06-02,Small business
+C00601,2023-05-11,Household
+C00602,2023-04-10,Small business
+C00603,2023-09-22,Small business
+C00604,2022-09-06,Student
+C00605,2023-08-09,Small business
+C00606,2022-11-26,Small business
+C00607,2023-07-04,Student
+C00608,2022-07-22,Household
+C00609,2022-11-22,Small business
+C00610,2023-10-01,Small business
+C00611,2022-08-02,Small business
+C00612,2023-10-12,Student
+C00613,2023-01-20,Small business
+C00614,2023-02-05,Student
+C00615,2023-10-07,Household
+C00616,2023-10-31,Household
+C00617,2022-03-20,Small business
+C00618,2023-03-11,Small business
+C00619,2022-05-05,Household
+C00620,2023-05-24,Student
+C00621,2023-04-01,Household
+C00622,2023-10-29,Student
+C00623,2022-12-25,Household
+C00624,2023-10-01,Household
+C00625,2022-10-28,Small business
+C00626,2023-05-22,Small business
+C00627,2023-09-30,Student
+C00628,2022-09-24,Household
+C00629,2022-07-02,Student
+C00630,2023-07-06,Student
+C00631,2023-03-06,Small business
+C00632,2023-10-22,Student
+C00633,2023-01-02,Student
+C00634,2023-06-26,Small business
+C00635,2022-05-05,Household
+C00636,2022-05-18,Student
+C00637,2022-08-13,Small business
+C00638,2022-07-11,Student
+C00639,2022-03-16,Household
+C00640,2022-06-22,Student
+C00641,2023-11-18,Student
+C00642,2023-06-28,Student
+C00643,2023-09-27,Small business
+C00644,2023-07-15,Household
+C00645,2023-05-22,Household
+C00646,2022-02-24,Student
+C00647,2022-08-29,Small business
+C00648,2023-03-18,Student
+C00649,2023-03-22,Small business
+C00650,2022-05-14,Household
+C00651,2022-06-08,Student
+C00652,2023-02-23,Student
+C00653,2022-01-05,Student
+C00654,2023-11-23,Small business
+C00655,2023-02-15,Small business
+C00656,2022-09-16,Student
+C00657,2022-06-25,Household
+C00658,2023-03-31,Student
+C00659,2022-10-04,Household
+C00660,2023-06-22,Small business
+C00661,2022-09-02,Small business
+C00662,2022-12-17,Student
+C00663,2023-06-14,Student
+C00664,2023-04-20,Small business
+C00665,2022-08-24,Small business
+C00666,2022-05-21,Small business
+C00667,2023-01-01,Small business
+C00668,2023-04-15,Small business
+C00669,2022-08-04,Household
+C00670,2022-09-12,Student
+C00671,2022-10-12,Student
+C00672,2023-04-27,Student
+C00673,2022-12-06,Household
+C00674,2023-07-31,Household
+C00675,2022-09-12,Student
+C00676,2022-08-24,Household
+C00677,2022-08-26,Student
+C00678,2023-08-09,Small business
+C00679,2023-05-07,Small business
+C00680,2022-05-24,Student
+C00681,2022-12-20,Household
+C00682,2022-08-06,Household
+C00683,2023-08-11,Household
+C00684,2022-04-27,Student
+C00685,2022-11-26,Household
+C00686,2022-11-24,Household
+C00687,2022-02-23,Small business
+C00688,2023-09-25,Small business
+C00689,2023-11-16,Household
+C00690,2023-09-11,Household
+C00691,2023-08-05,Small business
+C00692,2023-03-15,Household
+C00693,2023-03-16,Household
+C00694,2023-05-03,Small business
+C00695,2023-11-28,Household
+C00696,2023-01-13,Household
+C00697,2022-03-25,Small business
+C00698,2022-08-05,Household
+C00699,2022-09-27,Small business
+C00700,2022-05-11,Student
+C00701,2022-11-14,Small business
+C00702,2023-11-23,Student
+C00703,2023-06-19,Student
+C00704,2022-09-11,Household
+C00705,2023-10-24,Household
+C00706,2023-04-25,Student
+C00707,2023-04-14,Household
+C00708,2022-12-04,Household
+C00709,2022-06-18,Student
+C00710,2022-12-18,Small business
+C00711,2023-01-26,Student
+C00712,2023-09-03,Small business
+C00713,2023-04-21,Student
+C00714,2022-10-16,Small business
+C00715,2022-10-18,Household
+C00716,2023-05-22,Household
+C00717,2023-01-06,Small business
+C00718,2022-06-13,Student
+C00719,2022-05-05,Student
+C00720,2023-07-22,Household
+C00721,2022-02-11,Small business
+C00722,2023-03-18,Household
+C00723,2022-01-07,Household
+C00724,2023-02-02,Small business
+C00725,2022-09-15,Small business
+C00726,2023-09-13,Small business
+C00727,2023-08-23,Small business
+C00728,2023-10-11,Student
+C00729,2022-07-08,Household
+C00730,2022-12-28,Small business
+C00731,2023-05-10,Household
+C00732,2023-11-25,Student
+C00733,2022-07-31,Small business
+C00734,2022-06-02,Household
+C00735,2023-11-04,Small business
+C00736,2023-07-17,Student
+C00737,2023-09-17,Household
+C00738,2022-04-13,Small business
+C00739,2022-12-10,Student
+C00740,2022-05-27,Small business
+C00741,2022-11-19,Small business
+C00742,2022-09-11,Small business
+C00743,2022-12-22,Small business
+C00744,2023-05-05,Student
+C00745,2022-11-27,Student
+C00746,2023-01-25,Small business
+C00747,2022-01-20,Household
+C00748,2022-02-05,Small business
+C00749,2023-11-24,Small business
+C00750,2022-05-03,Student
+C00751,2022-08-30,Small business
+C00752,2023-07-10,Household
+C00753,2022-03-31,Student
+C00754,2023-05-02,Student
+C00755,2022-09-16,Student
+C00756,2022-06-30,Household
+C00757,2022-03-18,Small business
+C00758,2022-11-19,Small business
+C00759,2022-12-06,Student
+C00760,2022-12-01,Small business
+C00761,2023-02-01,Household
+C00762,2022-04-07,Household
+C00763,2023-02-10,Household
+C00764,2023-05-03,Small business
+C00765,2022-05-17,Household
+C00766,2022-11-20,Student
+C00767,2022-01-01,Small business
+C00768,2023-02-25,Small business
+C00769,2023-01-17,Household
+C00770,2023-11-24,Student
+C00771,2023-07-01,Household
+C00772,2022-11-30,Household
+C00773,2023-10-01,Student
+C00774,2022-02-01,Household
+C00775,2022-10-07,Small business
+C00776,2022-08-01,Student
+C00777,2023-10-08,Household
+C00778,2022-09-05,Small business
+C00779,2023-09-04,Small business
+C00780,2022-08-05,Small business
+C00781,2023-10-12,Household
+C00782,2022-01-30,Small business
+C00783,2023-11-04,Small business
+C00784,2023-04-12,Small business
+C00785,2023-07-19,Student
+C00786,2022-10-22,Household
+C00787,2022-12-16,Student
+C00788,2023-04-05,Student
+C00789,2022-01-19,Household
+C00790,2022-12-06,Household
+C00791,2022-06-04,Small business
+C00792,2023-01-02,Small business
+C00793,2023-10-14,Small business
+C00794,2022-07-24,Household
+C00795,2023-09-03,Small business
+C00796,2023-02-12,Household
+C00797,2023-10-09,Student
+C00798,2023-04-04,Small business
+C00799,2022-06-20,Small business
+C00800,2022-04-15,Small business
+C00801,2022-11-06,Small business
+C00802,2022-12-01,Small business
+C00803,2023-04-07,Small business
+C00804,2023-02-26,Small business
+C00805,2023-04-03,Student
+C00806,2023-07-22,Small business
+C00807,2022-06-02,Student
+C00808,2022-10-10,Household
+C00809,2022-11-17,Household
+C00810,2022-10-02,Small business
+C00811,2023-11-17,Household
+C00812,2023-05-03,Small business
+C00813,2022-11-18,Student
+C00814,2023-03-31,Student
+C00815,2022-07-21,Small business
+C00816,2022-09-30,Household
+C00817,2023-03-02,Small business
+C00818,2023-06-15,Student
+C00819,2022-05-18,Household
+C00820,2022-06-13,Small business
+C00821,2022-10-18,Small business
+C00822,2023-06-18,Small business
+C00823,2022-04-13,Small business
+C00824,2022-08-31,Student
+C00825,2023-09-18,Small business
+C00826,2022-03-02,Student
+C00827,2022-02-23,Small business
+C00828,2023-09-05,Small business
+C00829,2023-02-25,Small business
+C00830,2022-07-22,Household
+C00831,2022-12-07,Household
+C00832,2023-04-18,Student
+C00833,2022-02-04,Student
+C00834,2023-06-08,Student
+C00835,2023-11-14,Household
+C00836,2023-04-16,Small business
+C00837,2023-03-16,Student
+C00838,2023-02-28,Student
+C00839,2022-04-14,Student
+C00840,2023-02-05,Household
+C00841,2022-06-02,Household
+C00842,2023-08-02,Small business
+C00843,2022-01-13,Student
+C00844,2023-02-20,Small business
+C00845,2023-08-12,Student
+C00846,2023-07-10,Small business
+C00847,2023-08-08,Small business
+C00848,2022-08-23,Student
+C00849,2022-12-19,Student
+C00850,2023-06-28,Household
+C00851,2022-10-21,Household
+C00852,2022-08-25,Household
+C00853,2023-10-07,Household
+C00854,2023-05-22,Household
+C00855,2023-03-25,Small business
+C00856,2022-10-26,Student
+C00857,2022-03-03,Small business
+C00858,2022-12-27,Household
+C00859,2023-02-10,Small business
+C00860,2023-04-14,Small business
+C00861,2023-07-04,Student
+C00862,2022-05-04,Student
+C00863,2023-06-22,Small business
+C00864,2022-06-05,Household
+C00865,2022-04-05,Student
+C00866,2022-10-10,Student
+C00867,2022-06-17,Small business
+C00868,2022-07-10,Small business
+C00869,2022-12-29,Student
+C00870,2022-10-29,Household
+C00871,2022-04-05,Small business
+C00872,2022-03-15,Student
+C00873,2023-08-11,Student
+C00874,2022-09-27,Student
+C00875,2023-10-25,Student
+C00876,2022-07-13,Student
+C00877,2023-11-24,Student
+C00878,2022-10-29,Student
+C00879,2023-02-07,Household
+C00880,2022-10-08,Student
+C00881,2022-06-26,Student
+C00882,2023-02-05,Small business
+C00883,2023-09-30,Household
+C00884,2023-07-14,Student
+C00885,2022-02-04,Household
+C00886,2022-07-31,Household
+C00887,2023-04-01,Student
+C00888,2023-08-09,Small business
+C00889,2022-11-18,Small business
+C00890,2022-02-03,Student
+C00891,2022-08-31,Small business
+C00892,2023-09-08,Household
+C00893,2023-10-20,Student
+C00894,2023-08-18,Household
+C00895,2023-08-29,Small business
+C00896,2022-06-01,Student
+C00897,2022-05-23,Student
+C00898,2022-03-18,Student
+C00899,2023-08-22,Student
+C00900,2023-07-12,Student
+C00901,2022-10-15,Household
+C00902,2022-07-30,Student
+C00903,2023-07-24,Student
+C00904,2023-07-17,Student
+C00905,2023-02-11,Student
+C00906,2023-10-19,Small business
+C00907,2023-07-29,Household
+C00908,2022-02-13,Small business
+C00909,2022-08-20,Small business
+C00910,2023-09-03,Student
+C00911,2022-05-25,Household
+C00912,2023-05-10,Small business
+C00913,2022-06-22,Student
+C00914,2022-07-04,Student
+C00915,2022-11-04,Student
+C00916,2022-11-07,Household
+C00917,2023-02-17,Student
+C00918,2023-09-11,Small business
+C00919,2022-06-01,Student
+C00920,2022-03-11,Small business
+C00921,2022-10-17,Student
+C00922,2022-07-01,Student
+C00923,2023-11-17,Household
+C00924,2022-01-19,Household
+C00925,2023-01-01,Student
+C00926,2023-04-23,Student
+C00927,2023-06-22,Small business
+C00928,2022-04-22,Household
+C00929,2022-05-14,Student
+C00930,2023-03-27,Student
+C00931,2022-10-18,Student
+C00932,2022-08-09,Small business
+C00933,2023-08-17,Household
+C00934,2023-11-11,Small business
+C00935,2022-08-16,Household
+C00936,2023-06-07,Small business
+C00937,2023-06-05,Household
+C00938,2022-01-17,Student
+C00939,2023-09-01,Household
+C00940,2022-02-23,Student
+C00941,2022-10-17,Small business
+C00942,2023-07-24,Small business
+C00943,2022-04-27,Student
+C00944,2023-01-23,Student
+C00945,2023-04-08,Student
+C00946,2023-01-18,Household
+C00947,2023-05-30,Student
+C00948,2022-11-18,Household
+C00949,2023-07-27,Small business
+C00950,2023-09-29,Small business
+C00951,2022-11-02,Small business
+C00952,2022-10-14,Household
+C00953,2022-06-03,Household
+C00954,2023-02-20,Household
+C00955,2023-07-09,Household
+C00956,2022-06-27,Student
+C00957,2022-08-25,Small business
+C00958,2022-08-25,Small business
+C00959,2022-07-15,Household
+C00960,2022-10-06,Household
+C00961,2023-03-13,Student
+C00962,2022-05-26,Household
+C00963,2023-08-22,Student
+C00964,2022-07-30,Small business
+C00965,2022-09-11,Household
+C00966,2022-07-10,Small business
+C00967,2023-07-16,Student
+C00968,2023-08-27,Household
+C00969,2022-09-02,Student
+C00970,2023-06-12,Small business
+C00971,2022-02-18,Student
+C00972,2023-08-14,Student
+C00973,2022-05-24,Small business
+C00974,2023-08-17,Student
+C00975,2022-12-28,Student
+C00976,2023-03-20,Household
+C00977,2022-05-09,Household
+C00978,2023-10-26,Household
+C00979,2022-03-12,Student
+C00980,2022-11-03,Household
+C00981,2023-10-09,Student
+C00982,2023-06-03,Student
+C00983,2022-05-13,Household
+C00984,2022-11-07,Student
+C00985,2022-05-29,Student
+C00986,2022-09-20,Student
+C00987,2023-05-09,Small business
+C00988,2022-08-22,Small business
+C00989,2023-05-18,Student
+C00990,2022-09-09,Small business
+C00991,2022-11-26,Household
+C00992,2022-05-29,Small business
+C00993,2023-01-02,Small business
+C00994,2023-02-25,Small business
+C00995,2022-07-25,Small business
+C00996,2023-06-23,Small business
+C00997,2022-07-12,Student
+C00998,2022-06-17,Small business
+C00999,2022-10-15,Student
+C01000,2022-06-03,Student
+C01001,2022-11-11,Household
+C01002,2022-09-08,Small business
+C01003,2022-12-09,Household
+C01004,2022-11-02,Small business
+C01005,2022-04-01,Small business
+C01006,2022-03-15,Student
+C01007,2022-08-30,Household
+C01008,2023-02-26,Household
+C01009,2023-09-22,Small business
+C01010,2022-04-15,Household
+C01011,2023-09-16,Household
+C01012,2023-11-16,Student
+C01013,2023-08-24,Small business
+C01014,2023-11-03,Small business
+C01015,2023-07-06,Household
+C01016,2022-03-13,Student
+C01017,2023-10-17,Small business
+C01018,2023-03-29,Household
+C01019,2023-07-10,Small business
+C01020,2023-01-20,Student
+C01021,2023-05-08,Student
+C01022,2022-02-12,Small business
+C01023,2022-04-09,Household
+C01024,2022-03-31,Student
+C01025,2022-07-06,Household
+C01026,2022-02-14,Student
+C01027,2023-04-05,Small business
+C01028,2022-09-22,Student
+C01029,2023-07-17,Household
+C01030,2022-04-20,Household
+C01031,2022-04-24,Small business
+C01032,2023-11-18,Small business
+C01033,2023-08-01,Small business
+C01034,2023-01-27,Household
+C01035,2022-06-16,Small business
+C01036,2022-05-26,Small business
+C01037,2023-07-08,Household
+C01038,2022-03-17,Small business
+C01039,2022-06-06,Small business
+C01040,2022-04-26,Student
+C01041,2023-04-05,Student
+C01042,2022-11-28,Small business
+C01043,2022-08-14,Household
+C01044,2023-02-06,Student
+C01045,2022-04-24,Small business
+C01046,2023-01-14,Household
+C01047,2022-06-23,Household
+C01048,2022-09-11,Small business
+C01049,2022-06-14,Household
+C01050,2023-10-21,Small business
+C01051,2022-04-05,Small business
+C01052,2023-09-19,Household
+C01053,2023-10-12,Household
+C01054,2023-10-15,Household
+C01055,2023-10-23,Small business
+C01056,2022-09-16,Household
+C01057,2022-05-31,Household
+C01058,2022-10-05,Student
+C01059,2023-08-06,Small business
+C01060,2022-01-24,Household
+C01061,2022-04-17,Small business
+C01062,2023-10-03,Student
+C01063,2023-05-01,Small business
+C01064,2023-01-02,Household
+C01065,2022-07-25,Small business
+C01066,2023-09-11,Student
+C01067,2023-05-25,Household
+C01068,2022-03-07,Student
+C01069,2023-06-19,Small business
+C01070,2022-02-03,Student
+C01071,2023-01-19,Small business
+C01072,2022-09-02,Household
+C01073,2023-11-26,Small business
+C01074,2023-04-18,Household
+C01075,2023-06-18,Small business
+C01076,2023-01-01,Small business
+C01077,2022-11-01,Small business
+C01078,2022-11-02,Household
+C01079,2023-01-29,Household
+C01080,2022-11-05,Small business
+C01081,2022-09-22,Small business
+C01082,2023-03-07,Household
+C01083,2023-02-15,Household
+C01084,2022-07-14,Small business
+C01085,2023-09-18,Household
+C01086,2023-05-07,Small business
+C01087,2022-07-24,Student
+C01088,2022-08-24,Student
+C01089,2022-07-22,Household
+C01090,2022-04-06,Small business
+C01091,2022-01-05,Household
+C01092,2022-09-09,Household
+C01093,2023-11-12,Student
+C01094,2023-11-25,Household
+C01095,2023-01-02,Small business
+C01096,2022-09-04,Household
+C01097,2023-06-26,Household
+C01098,2023-01-18,Household
+C01099,2022-10-14,Small business
+C01100,2023-05-24,Student
+C01101,2022-01-25,Student
+C01102,2023-09-21,Student
+C01103,2022-12-13,Student
+C01104,2022-01-24,Household
+C01105,2022-04-08,Student
+C01106,2023-02-03,Small business
+C01107,2022-03-10,Household
+C01108,2023-11-15,Small business
+C01109,2022-12-12,Household
+C01110,2022-01-22,Student
+C01111,2023-02-26,Small business
+C01112,2023-10-28,Student
+C01113,2022-03-17,Small business
+C01114,2022-04-07,Student
+C01115,2022-06-27,Household
+C01116,2022-09-18,Small business
+C01117,2023-05-16,Household
+C01118,2023-01-06,Student
+C01119,2022-01-23,Small business
+C01120,2022-09-07,Small business
+C01121,2023-11-17,Household
+C01122,2023-11-19,Household
+C01123,2023-05-14,Household
+C01124,2023-09-18,Student
+C01125,2023-08-28,Small business
+C01126,2022-05-04,Student
+C01127,2023-06-07,Small business
+C01128,2023-05-15,Small business
+C01129,2023-02-26,Student
+C01130,2022-07-07,Student
+C01131,2023-01-07,Student
+C01132,2023-05-01,Household
+C01133,2022-09-16,Household
+C01134,2022-02-27,Small business
+C01135,2023-12-01,Student
+C01136,2023-03-28,Small business
+C01137,2023-10-03,Student
+C01138,2022-01-31,Student
+C01139,2022-11-10,Household
+C01140,2023-07-09,Small business
+C01141,2023-06-16,Small business
+C01142,2022-12-29,Household
+C01143,2023-07-18,Household
+C01144,2022-02-19,Household
+C01145,2023-06-16,Small business
+C01146,2022-12-06,Household
+C01147,2023-02-04,Household
+C01148,2022-04-30,Student
+C01149,2023-04-03,Household
+C01150,2022-07-20,Student
+C01151,2023-09-06,Student
+C01152,2022-11-08,Household
+C01153,2022-06-09,Household
+C01154,2022-01-19,Household
+C01155,2022-04-17,Student
+C01156,2022-04-13,Small business
+C01157,2022-04-15,Small business
+C01158,2022-08-01,Student
+C01159,2023-11-22,Student
+C01160,2022-10-07,Student
+C01161,2023-02-03,Student
+C01162,2022-07-06,Household
+C01163,2022-05-31,Small business
+C01164,2022-01-25,Household
+C01165,2022-04-29,Student
+C01166,2022-10-15,Household
+C01167,2022-09-26,Small business
+C01168,2022-03-12,Small business
+C01169,2022-01-24,Household
+C01170,2022-09-08,Household
+C01171,2023-11-08,Student
+C01172,2022-12-28,Household
+C01173,2023-06-22,Small business
+C01174,2022-08-10,Small business
+C01175,2023-11-23,Small business
+C01176,2022-07-13,Student
+C01177,2023-02-21,Household
+C01178,2022-06-21,Small business
+C01179,2022-06-12,Small business
+C01180,2023-10-13,Student
+C01181,2022-11-16,Small business
+C01182,2023-03-25,Household
+C01183,2023-09-08,Student
+C01184,2022-01-01,Student
+C01185,2022-06-26,Small business
+C01186,2022-08-02,Student
+C01187,2023-03-16,Small business
+C01188,2022-10-18,Small business
+C01189,2023-02-06,Student
+C01190,2022-07-06,Household
+C01191,2023-09-04,Student
+C01192,2023-07-30,Household
+C01193,2022-10-31,Small business
+C01194,2022-12-25,Household
+C01195,2023-01-15,Student
+C01196,2023-11-04,Household
+C01197,2022-05-09,Small business
+C01198,2023-07-12,Household
+C01199,2023-03-07,Household
+C01200,2023-05-21,Household
+C01201,2022-02-12,Small business
+C01202,2022-11-05,Student
+C01203,2022-02-03,Student
+C01204,2022-12-21,Small business
+C01205,2023-03-31,Small business
+C01206,2022-08-12,Household
+C01207,2023-02-03,Student
+C01208,2022-10-08,Household
+C01209,2022-02-28,Household
+C01210,2023-05-25,Household
+C01211,2023-01-16,Student
+C01212,2022-11-18,Small business
+C01213,2023-07-26,Household
+C01214,2023-05-05,Small business
+C01215,2023-01-16,Student
+C01216,2022-03-24,Small business
+C01217,2023-07-26,Small business
+C01218,2022-05-14,Student
+C01219,2023-08-04,Household
+C01220,2022-12-27,Small business
+C01221,2023-02-03,Household
+C01222,2022-09-10,Small business
+C01223,2022-06-17,Household
+C01224,2023-03-02,Household
+C01225,2022-12-02,Household
+C01226,2022-09-13,Small business
+C01227,2023-02-10,Small business
+C01228,2022-09-22,Student
+C01229,2023-05-08,Household
+C01230,2023-09-10,Household
+C01231,2022-04-13,Household
+C01232,2022-10-09,Household
+C01233,2023-08-10,Household
+C01234,2023-04-29,Student
+C01235,2022-07-26,Small business
+C01236,2022-08-17,Household
+C01237,2023-06-22,Household
+C01238,2022-09-28,Household
+C01239,2022-03-30,Small business
+C01240,2023-04-02,Student
+C01241,2023-04-25,Small business
+C01242,2022-03-12,Household
+C01243,2022-11-12,Household
+C01244,2022-07-15,Student
+C01245,2022-10-05,Student
+C01246,2023-02-24,Student
+C01247,2023-01-15,Household
+C01248,2022-01-16,Household
+C01249,2023-09-18,Household
+C01250,2022-09-03,Small business
+C01251,2022-07-21,Student
+C01252,2023-04-22,Household
+C01253,2022-07-17,Small business
+C01254,2022-05-18,Small business
+C01255,2022-09-30,Household
+C01256,2022-07-30,Student
+C01257,2022-12-04,Small business
+C01258,2022-01-13,Student
+C01259,2022-12-12,Household
+C01260,2022-10-31,Small business
+C01261,2022-11-24,Student
+C01262,2023-10-21,Small business
+C01263,2022-08-07,Student
+C01264,2022-03-07,Student
+C01265,2023-07-08,Small business
+C01266,2022-11-16,Small business
+C01267,2022-04-21,Household
+C01268,2022-01-23,Student
+C01269,2023-11-09,Small business
+C01270,2023-04-03,Household
+C01271,2022-01-28,Small business
+C01272,2022-12-08,Small business
+C01273,2023-02-12,Small business
+C01274,2022-08-03,Household
+C01275,2022-03-06,Small business
+C01276,2023-07-15,Student
+C01277,2022-07-17,Small business
+C01278,2022-08-04,Small business
+C01279,2022-09-15,Small business
+C01280,2023-03-06,Household
+C01281,2023-07-23,Household
+C01282,2022-10-01,Student
+C01283,2022-06-10,Household
+C01284,2022-01-07,Student
+C01285,2022-11-20,Student
+C01286,2022-01-16,Student
+C01287,2023-07-21,Household
+C01288,2023-05-02,Small business
+C01289,2022-09-23,Household
+C01290,2022-03-08,Small business
+C01291,2022-01-15,Household
+C01292,2022-04-09,Household
+C01293,2022-03-04,Household
+C01294,2023-11-13,Small business
+C01295,2023-10-04,Household
+C01296,2022-03-29,Small business
+C01297,2022-05-27,Student
+C01298,2022-01-30,Student
+C01299,2023-05-08,Household
+C01300,2022-10-22,Student
+C01301,2022-12-16,Household
+C01302,2022-03-01,Household
+C01303,2022-05-21,Household
+C01304,2022-12-04,Household
+C01305,2023-05-14,Student
+C01306,2023-03-05,Student
+C01307,2022-08-13,Small business
+C01308,2023-08-17,Student
+C01309,2022-12-03,Household
+C01310,2022-06-28,Student
+C01311,2023-05-16,Household
+C01312,2022-12-31,Student
+C01313,2023-10-21,Student
+C01314,2023-06-23,Household
+C01315,2022-04-07,Small business
+C01316,2022-10-31,Student
+C01317,2023-10-11,Student
+C01318,2022-09-11,Student
+C01319,2022-06-25,Household
+C01320,2023-07-13,Student
+C01321,2022-06-09,Student
+C01322,2023-06-03,Student
+C01323,2023-04-13,Student
+C01324,2023-09-25,Household
+C01325,2023-10-31,Small business
+C01326,2023-09-05,Small business
+C01327,2022-09-04,Student
+C01328,2023-01-30,Student
+C01329,2022-10-08,Household
+C01330,2022-08-01,Student
+C01331,2022-02-14,Household
+C01332,2023-11-17,Student
+C01333,2022-05-18,Small business
+C01334,2023-06-22,Small business
+C01335,2022-12-27,Small business
+C01336,2022-11-02,Household
+C01337,2023-10-09,Student
+C01338,2022-03-23,Household
+C01339,2022-05-09,Household
+C01340,2023-05-12,Student
+C01341,2023-05-09,Small business
+C01342,2023-09-05,Small business
+C01343,2023-05-20,Small business
+C01344,2022-10-05,Student
+C01345,2022-06-21,Small business
+C01346,2023-01-16,Student
+C01347,2022-02-02,Household
+C01348,2022-06-19,Small business
+C01349,2023-11-04,Household
+C01350,2023-05-07,Student
+C01351,2022-03-03,Household
+C01352,2022-11-26,Small business
+C01353,2022-10-24,Small business
+C01354,2023-05-21,Household
+C01355,2022-08-10,Household
+C01356,2022-01-29,Student
+C01357,2023-09-29,Student
+C01358,2022-03-27,Small business
+C01359,2023-04-04,Household
+C01360,2022-03-18,Student
+C01361,2022-03-16,Small business
+C01362,2022-03-15,Student
+C01363,2022-05-03,Student
+C01364,2023-03-21,Small business
+C01365,2022-08-12,Student
+C01366,2023-03-20,Student
+C01367,2023-08-12,Small business
+C01368,2022-03-17,Student
+C01369,2022-12-06,Household
+C01370,2022-04-04,Student
+C01371,2022-08-30,Student
+C01372,2022-11-19,Small business
+C01373,2022-11-07,Student
+C01374,2023-02-15,Student
+C01375,2023-11-03,Student
+C01376,2022-08-04,Student
+C01377,2022-07-30,Household
+C01378,2022-09-20,Small business
+C01379,2022-09-24,Small business
+C01380,2022-09-27,Student
+C01381,2022-08-20,Household
+C01382,2022-12-19,Small business
+C01383,2022-05-14,Student
+C01384,2022-08-31,Student
+C01385,2023-02-11,Household
+C01386,2022-07-04,Student
+C01387,2023-07-19,Small business
+C01388,2023-06-08,Student
+C01389,2023-05-22,Small business
+C01390,2023-08-06,Small business
+C01391,2022-03-28,Household
+C01392,2022-02-13,Household
+C01393,2022-01-04,Student
+C01394,2023-07-24,Student
+C01395,2022-10-29,Household
+C01396,2022-10-10,Small business
+C01397,2022-07-05,Small business
+C01398,2023-02-16,Small business
+C01399,2022-03-14,Student
+C01400,2023-10-07,Small business
+C01401,2023-05-22,Student
+C01402,2022-12-10,Small business
+C01403,2022-01-28,Student
+C01404,2023-04-08,Student
+C01405,2023-08-24,Household
+C01406,2022-09-10,Small business
+C01407,2023-02-21,Small business
+C01408,2022-02-28,Household
+C01409,2023-04-12,Student
+C01410,2022-09-27,Household
+C01411,2023-08-31,Household
+C01412,2022-08-02,Student
+C01413,2022-04-30,Household
+C01414,2023-04-12,Small business
+C01415,2023-03-02,Student
+C01416,2022-03-08,Student
+C01417,2022-08-11,Student
+C01418,2023-08-16,Household
+C01419,2023-01-12,Student
+C01420,2023-10-21,Household
+C01421,2022-08-15,Household
+C01422,2023-09-04,Small business
+C01423,2022-03-10,Household
+C01424,2022-06-30,Small business
+C01425,2022-08-21,Household
+C01426,2023-07-25,Household
+C01427,2022-12-29,Student
+C01428,2022-03-29,Household
+C01429,2022-11-10,Student
+C01430,2022-07-06,Household
+C01431,2023-11-26,Small business
+C01432,2023-05-19,Student
+C01433,2022-02-27,Small business
+C01434,2023-06-29,Small business
+C01435,2022-06-27,Student
+C01436,2022-06-09,Student
+C01437,2022-01-22,Student
+C01438,2022-10-02,Student
+C01439,2022-08-11,Small business
+C01440,2023-04-28,Household
+C01441,2022-08-05,Student
+C01442,2023-02-14,Student
+C01443,2023-04-06,Small business
+C01444,2023-01-16,Student
+C01445,2022-03-09,Household
+C01446,2022-03-29,Small business
+C01447,2022-11-17,Small business
+C01448,2023-05-04,Small business
+C01449,2023-11-19,Small business
+C01450,2022-02-18,Student
+C01451,2022-06-11,Small business
+C01452,2022-06-25,Small business
+C01453,2022-06-29,Student
+C01454,2022-04-15,Student
+C01455,2022-04-05,Small business
+C01456,2023-01-26,Student
+C01457,2023-11-29,Household
+C01458,2022-05-21,Small business
+C01459,2023-04-26,Small business
+C01460,2022-01-13,Small business
+C01461,2022-03-23,Student
+C01462,2023-08-27,Small business
+C01463,2022-01-27,Small business
+C01464,2023-01-19,Small business
+C01465,2023-11-16,Student
+C01466,2022-10-29,Student
+C01467,2022-04-27,Household
+C01468,2023-07-31,Household
+C01469,2023-01-28,Household
+C01470,2022-10-12,Household
+C01471,2022-04-04,Small business
+C01472,2022-11-18,Student
+C01473,2023-09-13,Student
+C01474,2022-06-02,Small business
+C01475,2022-04-06,Student
+C01476,2023-06-05,Household
+C01477,2023-01-22,Student
+C01478,2023-07-24,Student
+C01479,2022-12-24,Student
+C01480,2023-07-04,Small business
+C01481,2022-01-25,Student
+C01482,2023-11-30,Household
+C01483,2023-04-08,Student
+C01484,2022-08-07,Student
+C01485,2022-10-09,Household
+C01486,2023-03-24,Student
+C01487,2023-09-25,Student
+C01488,2023-10-16,Student
+C01489,2022-04-04,Small business
+C01490,2023-07-19,Household
+C01491,2022-03-12,Student
+C01492,2023-01-14,Small business
+C01493,2022-10-11,Small business
+C01494,2023-03-05,Student
+C01495,2022-03-12,Household
+C01496,2022-11-21,Household
+C01497,2022-08-19,Small business
+C01498,2022-04-29,Household
+C01499,2022-07-18,Student
+C01500,2022-04-25,Household
+C01501,2022-08-20,Small business
+C01502,2023-02-13,Household
+C01503,2023-11-09,Small business
+C01504,2022-10-14,Student
+C01505,2022-01-23,Small business
+C01506,2022-04-29,Household
+C01507,2022-01-24,Household
+C01508,2023-04-05,Student
+C01509,2023-07-23,Student
+C01510,2022-03-29,Household
+C01511,2023-05-23,Student
+C01512,2023-07-23,Household
+C01513,2022-06-07,Small business
+C01514,2022-01-27,Student
+C01515,2023-10-04,Student
+C01516,2023-08-23,Student
+C01517,2023-10-12,Household
+C01518,2023-11-01,Student
+C01519,2022-04-19,Small business
+C01520,2022-06-13,Small business
+C01521,2022-02-10,Student
+C01522,2023-01-07,Household
+C01523,2022-05-09,Household
+C01524,2023-11-01,Student
+C01525,2022-03-16,Student
+C01526,2022-06-02,Student
+C01527,2022-03-30,Household
+C01528,2022-09-04,Student
+C01529,2022-07-03,Student
+C01530,2023-06-08,Student
+C01531,2022-12-08,Household
+C01532,2022-01-01,Household
+C01533,2023-07-24,Household
+C01534,2023-11-03,Small business
+C01535,2022-04-03,Student
+C01536,2023-07-21,Student
+C01537,2022-02-25,Student
+C01538,2023-10-01,Student
+C01539,2022-06-09,Student
+C01540,2022-04-12,Small business
+C01541,2023-09-08,Student
+C01542,2022-05-26,Student
+C01543,2023-04-22,Small business
+C01544,2023-11-18,Small business
+C01545,2023-05-29,Household
+C01546,2023-01-01,Small business
+C01547,2023-02-12,Household
+C01548,2023-08-21,Small business
+C01549,2022-07-03,Student
+C01550,2023-11-02,Student
+C01551,2023-05-18,Small business
+C01552,2023-06-26,Student
+C01553,2022-09-15,Student
+C01554,2022-02-02,Household
+C01555,2022-08-04,Student
+C01556,2022-01-09,Student
+C01557,2023-11-12,Small business
+C01558,2022-01-15,Small business
+C01559,2022-08-19,Small business
+C01560,2023-06-22,Student
+C01561,2022-06-21,Household
+C01562,2022-08-18,Small business
+C01563,2022-02-08,Student
+C01564,2022-03-27,Student
+C01565,2023-10-24,Household
+C01566,2023-03-29,Household
+C01567,2022-08-08,Household
+C01568,2023-03-13,Student
+C01569,2022-08-14,Small business
+C01570,2022-04-07,Household
+C01571,2022-07-06,Student
+C01572,2023-11-02,Small business
+C01573,2022-12-09,Small business
+C01574,2023-11-27,Small business
+C01575,2022-02-03,Small business
+C01576,2022-07-19,Small business
+C01577,2022-12-20,Household
+C01578,2022-12-12,Small business
+C01579,2023-01-20,Small business
+C01580,2022-08-09,Household
+C01581,2022-11-01,Small business
+C01582,2022-10-29,Student
+C01583,2023-11-26,Small business
+C01584,2023-09-17,Household
+C01585,2022-11-26,Household
+C01586,2023-08-01,Small business
+C01587,2023-07-11,Student
+C01588,2022-05-05,Small business
+C01589,2022-02-05,Student
+C01590,2022-05-10,Small business
+C01591,2022-10-10,Small business
+C01592,2023-02-19,Household
+C01593,2023-04-13,Household
+C01594,2023-04-08,Household
+C01595,2023-11-06,Household
+C01596,2022-11-15,Household
+C01597,2022-02-26,Student
+C01598,2023-11-05,Student
+C01599,2022-11-11,Small business
+C01600,2023-06-08,Small business
+C01601,2022-02-24,Student
+C01602,2022-11-02,Household
+C01603,2022-03-12,Household
+C01604,2023-10-11,Small business
+C01605,2022-06-23,Student
+C01606,2022-11-23,Household
+C01607,2023-10-20,Household
+C01608,2022-02-23,Household
+C01609,2023-02-21,Household
+C01610,2022-01-30,Student
+C01611,2023-01-28,Student
+C01612,2023-11-20,Student
+C01613,2022-08-06,Household
+C01614,2022-04-21,Small business
+C01615,2023-01-27,Student
+C01616,2022-10-09,Student
+C01617,2023-01-01,Small business
+C01618,2022-08-15,Household
+C01619,2022-10-13,Student
+C01620,2023-04-29,Household
+C01621,2022-01-08,Student
+C01622,2022-08-02,Small business
+C01623,2023-10-15,Small business
+C01624,2023-04-28,Small business
+C01625,2023-05-03,Household
+C01626,2022-05-28,Household
+C01627,2022-12-01,Student
+C01628,2022-10-07,Student
+C01629,2022-10-20,Small business
+C01630,2023-04-03,Student
+C01631,2023-07-26,Household
+C01632,2023-06-17,Small business
+C01633,2022-09-29,Small business
+C01634,2023-09-30,Household
+C01635,2022-07-21,Small business
+C01636,2022-05-04,Household
+C01637,2022-04-02,Household
+C01638,2023-05-30,Student
+C01639,2023-02-04,Small business
+C01640,2023-08-15,Student
+C01641,2022-11-09,Student
+C01642,2023-01-04,Student
+C01643,2022-11-07,Household
+C01644,2022-04-15,Household
+C01645,2022-09-26,Household
+C01646,2023-09-25,Student
+C01647,2022-08-17,Household
+C01648,2022-06-28,Household
+C01649,2022-07-24,Household
+C01650,2023-02-12,Small business
+C01651,2023-08-13,Small business
+C01652,2023-11-10,Household
+C01653,2023-06-09,Student
+C01654,2023-03-07,Student
+C01655,2023-05-08,Household
+C01656,2022-07-31,Small business
+C01657,2022-04-09,Household
+C01658,2022-03-29,Household
+C01659,2023-04-04,Small business
+C01660,2022-04-04,Small business
+C01661,2023-06-01,Household
+C01662,2022-09-11,Student
+C01663,2023-08-27,Small business
+C01664,2022-11-13,Household
+C01665,2023-10-28,Student
+C01666,2022-01-03,Household
+C01667,2022-03-25,Small business
+C01668,2023-09-23,Student
+C01669,2022-04-07,Student
+C01670,2023-04-12,Small business
+C01671,2022-11-28,Small business
+C01672,2022-07-12,Household
+C01673,2022-03-12,Household
+C01674,2022-07-20,Student
+C01675,2023-09-07,Small business
+C01676,2023-08-13,Student
+C01677,2022-10-15,Student
+C01678,2022-05-19,Small business
+C01679,2023-02-25,Small business
+C01680,2022-10-07,Household
+C01681,2023-01-01,Student
+C01682,2023-05-06,Household
+C01683,2023-02-23,Household
+C01684,2022-06-29,Student
+C01685,2023-09-15,Small business
+C01686,2022-10-10,Student
+C01687,2022-05-23,Small business
+C01688,2022-11-07,Student
+C01689,2022-12-09,Household
+C01690,2022-06-10,Student
+C01691,2023-08-20,Household
+C01692,2022-08-14,Household
+C01693,2022-03-06,Student
+C01694,2022-04-29,Student
+C01695,2023-07-18,Small business
+C01696,2023-08-03,Household
+C01697,2023-08-01,Student
+C01698,2023-03-22,Small business
+C01699,2023-07-30,Student
+C01700,2023-05-06,Student
+C01701,2023-05-30,Student
+C01702,2022-07-17,Household
+C01703,2022-01-07,Student
+C01704,2023-03-10,Small business
+C01705,2022-06-08,Household
+C01706,2022-03-18,Small business
+C01707,2022-10-17,Household
+C01708,2023-09-11,Student
+C01709,2022-12-17,Student
+C01710,2022-07-08,Student
+C01711,2023-05-09,Student
+C01712,2023-03-07,Small business
+C01713,2022-03-05,Household
+C01714,2023-08-03,Small business
+C01715,2022-12-25,Household
+C01716,2022-09-27,Small business
+C01717,2023-04-19,Small business
+C01718,2023-09-26,Household
+C01719,2022-12-22,Student
+C01720,2022-07-01,Student
+C01721,2023-09-07,Household
+C01722,2023-07-23,Small business
+C01723,2022-01-25,Student
+C01724,2023-09-22,Student
+C01725,2022-01-02,Household
+C01726,2022-09-01,Household
+C01727,2022-02-05,Small business
+C01728,2022-10-17,Student
+C01729,2022-04-10,Household
+C01730,2023-11-03,Small business
+C01731,2022-06-02,Household
+C01732,2023-03-15,Household
+C01733,2023-04-02,Student
+C01734,2022-10-03,Small business
+C01735,2022-02-25,Small business
+C01736,2022-07-27,Small business
+C01737,2023-01-26,Student
+C01738,2022-02-27,Student
+C01739,2023-06-05,Student
+C01740,2022-07-18,Household
+C01741,2023-05-05,Small business
+C01742,2023-10-06,Student
+C01743,2022-10-30,Small business
+C01744,2023-07-15,Small business
+C01745,2023-02-01,Student
+C01746,2023-08-15,Household
+C01747,2023-07-21,Household
+C01748,2022-11-18,Household
+C01749,2022-10-15,Household
+C01750,2022-05-08,Small business
+C01751,2023-10-27,Household
+C01752,2023-07-22,Small business
+C01753,2023-05-18,Small business
+C01754,2022-02-23,Household
+C01755,2023-01-23,Small business
+C01756,2022-03-03,Household
+C01757,2022-06-09,Household
+C01758,2023-08-15,Household
+C01759,2023-10-28,Household
+C01760,2023-07-25,Student
+C01761,2022-11-23,Student
+C01762,2022-07-06,Student
+C01763,2022-02-27,Small business
+C01764,2022-05-12,Student
+C01765,2023-10-30,Small business
+C01766,2022-04-01,Small business
+C01767,2022-04-20,Small business
+C01768,2022-09-12,Small business
+C01769,2023-11-06,Household
+C01770,2022-08-07,Small business
+C01771,2023-06-30,Small business
+C01772,2022-11-23,Small business
+C01773,2022-02-22,Household
+C01774,2023-01-26,Small business
+C01775,2023-06-28,Household
+C01776,2023-01-08,Household
+C01777,2022-09-09,Small business
+C01778,2022-09-17,Student
+C01779,2023-05-07,Small business
+C01780,2023-10-05,Household
+C01781,2022-11-21,Student
+C01782,2023-04-20,Small business
+C01783,2022-09-30,Household
+C01784,2023-05-29,Household
+C01785,2023-11-21,Small business
+C01786,2022-11-27,Student
+C01787,2023-05-06,Small business
+C01788,2022-04-27,Student
+C01789,2023-01-27,Household
+C01790,2023-01-26,Small business
+C01791,2022-09-17,Student
+C01792,2023-07-15,Small business
+C01793,2023-04-05,Student
+C01794,2023-02-12,Household
+C01795,2023-06-13,Household
+C01796,2023-03-29,Small business
+C01797,2023-07-20,Household
+C01798,2022-05-28,Household
+C01799,2022-12-05,Small business
+C01800,2022-09-30,Student
+C01801,2023-10-29,Household
+C01802,2022-03-20,Household
+C01803,2022-08-07,Small business
+C01804,2023-05-16,Small business
+C01805,2023-09-11,Student
+C01806,2022-04-27,Small business
+C01807,2023-01-28,Small business
+C01808,2023-03-23,Small business
+C01809,2022-08-06,Small business
+C01810,2022-08-29,Small business
+C01811,2023-07-24,Household
+C01812,2022-05-02,Household
+C01813,2023-01-14,Student
+C01814,2022-05-05,Household
+C01815,2022-11-17,Household
+C01816,2022-02-05,Household
+C01817,2023-04-08,Student
+C01818,2023-03-20,Small business
+C01819,2023-01-08,Small business
+C01820,2022-08-08,Student
+C01821,2022-10-06,Household
+C01822,2023-10-04,Household
+C01823,2022-11-30,Small business
+C01824,2022-07-22,Student
+C01825,2022-11-15,Household
+C01826,2022-10-25,Household
+C01827,2022-10-08,Small business
+C01828,2023-07-08,Small business
+C01829,2022-03-05,Small business
+C01830,2023-06-29,Student
+C01831,2023-08-24,Small business
+C01832,2022-01-07,Household
+C01833,2022-10-02,Household
+C01834,2022-02-23,Small business
+C01835,2022-04-05,Small business
+C01836,2022-05-30,Small business
+C01837,2023-01-22,Small business
+C01838,2023-01-31,Student
+C01839,2022-10-19,Small business
+C01840,2022-11-30,Student
+C01841,2022-02-09,Student
+C01842,2023-08-10,Student
+C01843,2022-03-29,Household
+C01844,2022-02-11,Student
+C01845,2022-04-27,Household
+C01846,2023-08-27,Small business
+C01847,2023-08-02,Student
+C01848,2022-09-06,Household
+C01849,2022-04-22,Student
+C01850,2022-12-21,Small business
+C01851,2022-11-05,Student
+C01852,2022-01-14,Student
+C01853,2023-09-27,Household
+C01854,2022-05-13,Small business
+C01855,2022-11-18,Student
+C01856,2022-05-05,Student
+C01857,2022-04-02,Student
+C01858,2023-05-11,Household
+C01859,2022-03-22,Small business
+C01860,2023-09-18,Household
+C01861,2022-09-09,Small business
+C01862,2023-05-21,Student
+C01863,2023-11-22,Household
+C01864,2023-02-05,Household
+C01865,2022-06-15,Small business
+C01866,2022-01-31,Household
+C01867,2023-03-28,Household
+C01868,2023-12-01,Household
+C01869,2023-02-12,Student
+C01870,2023-07-21,Student
+C01871,2022-10-19,Small business
+C01872,2023-04-08,Small business
+C01873,2023-11-07,Small business
+C01874,2023-08-18,Small business
+C01875,2023-08-07,Household
+C01876,2023-02-04,Household
+C01877,2022-03-27,Student
+C01878,2023-05-13,Student
+C01879,2022-10-15,Student
+C01880,2022-11-29,Household
+C01881,2022-03-17,Small business
+C01882,2023-06-13,Household
+C01883,2022-10-07,Household
+C01884,2023-06-10,Small business
+C01885,2023-04-14,Student
+C01886,2023-07-11,Small business
+C01887,2022-08-18,Student
+C01888,2022-01-31,Household
+C01889,2023-05-26,Small business
+C01890,2023-02-20,Small business
+C01891,2022-03-21,Small business
+C01892,2023-03-04,Student
+C01893,2023-02-05,Small business
+C01894,2023-09-19,Household
+C01895,2022-11-26,Household
+C01896,2023-10-27,Student
+C01897,2023-04-15,Small business
+C01898,2022-03-04,Student
+C01899,2022-12-30,Household
+C01900,2023-10-18,Student
+C01901,2022-01-21,Household
+C01902,2023-11-25,Small business
+C01903,2022-02-25,Student
+C01904,2023-09-04,Household
+C01905,2022-05-14,Household
+C01906,2022-10-18,Household
+C01907,2022-02-07,Household
+C01908,2023-05-20,Student
+C01909,2023-10-28,Small business
+C01910,2022-12-31,Small business
+C01911,2023-11-18,Student
+C01912,2022-07-20,Small business
+C01913,2023-10-06,Small business
+C01914,2022-02-20,Student
+C01915,2022-03-27,Student
+C01916,2022-06-10,Small business
+C01917,2023-08-15,Student
+C01918,2023-03-08,Household
+C01919,2022-10-21,Student
+C01920,2023-01-14,Student
+C01921,2022-02-26,Small business
+C01922,2023-06-22,Household
+C01923,2022-08-01,Small business
+C01924,2022-03-14,Small business
+C01925,2022-10-25,Household
+C01926,2023-04-12,Small business
+C01927,2023-08-02,Small business
+C01928,2022-03-06,Small business
+C01929,2022-08-31,Student
+C01930,2022-12-20,Household
+C01931,2023-09-14,Student
+C01932,2023-11-23,Household
+C01933,2022-10-31,Small business
+C01934,2023-03-10,Small business
+C01935,2023-09-12,Small business
+C01936,2022-05-26,Small business
+C01937,2022-04-28,Student
+C01938,2023-06-26,Student
+C01939,2023-03-03,Small business
+C01940,2023-03-09,Household
+C01941,2023-09-08,Household
+C01942,2022-10-26,Small business
+C01943,2023-03-28,Small business
+C01944,2023-09-21,Household
+C01945,2022-01-18,Student
+C01946,2023-10-02,Student
+C01947,2023-03-17,Household
+C01948,2023-03-06,Small business
+C01949,2023-11-21,Household
+C01950,2022-03-29,Student
+C01951,2023-05-02,Household
+C01952,2022-04-09,Small business
+C01953,2023-09-14,Household
+C01954,2023-06-22,Student
+C01955,2023-05-10,Household
+C01956,2023-03-01,Student
+C01957,2023-09-19,Household
+C01958,2022-06-25,Small business
+C01959,2023-11-01,Student
+C01960,2023-05-31,Household
+C01961,2022-09-05,Household
+C01962,2022-09-28,Household
+C01963,2022-10-18,Small business
+C01964,2023-05-24,Small business
+C01965,2022-05-24,Household
+C01966,2023-11-01,Student
+C01967,2022-10-01,Small business
+C01968,2023-09-22,Household
+C01969,2023-06-04,Student
+C01970,2022-05-04,Household
+C01971,2022-12-06,Household
+C01972,2022-07-11,Household
+C01973,2022-01-28,Household
+C01974,2022-03-17,Household
+C01975,2023-04-12,Household
+C01976,2023-04-30,Student
+C01977,2022-09-28,Small business
+C01978,2022-06-26,Student
+C01979,2022-06-26,Small business
+C01980,2022-08-15,Small business
+C01981,2022-08-15,Small business
+C01982,2022-04-18,Student
+C01983,2022-01-08,Small business
+C01984,2023-05-25,Small business
+C01985,2023-05-23,Student
+C01986,2022-03-16,Small business
+C01987,2022-09-04,Student
+C01988,2022-01-03,Household
+C01989,2022-08-09,Student
+C01990,2023-03-02,Small business
+C01991,2022-11-29,Student
+C01992,2023-09-02,Small business
+C01993,2022-11-04,Household
+C01994,2022-02-11,Student
+C01995,2023-01-06,Small business
+C01996,2022-11-12,Student
+C01997,2022-02-01,Student
+C01998,2022-08-20,Student
+C01999,2022-08-18,Small business
+C02000,2022-06-16,Small business
+C02001,2023-05-05,Student
+C02002,2022-02-17,Household
+C02003,2023-05-06,Small business
+C02004,2022-12-31,Student
+C02005,2022-02-18,Student
+C02006,2023-07-14,Student
+C02007,2022-08-26,Student
+C02008,2022-08-18,Student
+C02009,2023-10-29,Household
+C02010,2022-05-14,Household
+C02011,2022-12-21,Household
+C02012,2023-09-07,Household
+C02013,2023-04-16,Household
+C02014,2022-06-13,Student
+C02015,2023-07-12,Student
+C02016,2022-09-18,Household
+C02017,2022-07-13,Household
+C02018,2022-11-16,Student
+C02019,2022-09-26,Student
+C02020,2023-01-20,Household
+C02021,2023-10-03,Household
+C02022,2022-12-16,Small business
+C02023,2022-10-11,Student
+C02024,2023-11-16,Student
+C02025,2023-07-09,Small business
+C02026,2022-10-11,Small business
+C02027,2023-10-10,Student
+C02028,2022-04-17,Small business
+C02029,2022-09-23,Student
+C02030,2023-01-01,Household
+C02031,2022-06-04,Small business
+C02032,2023-05-25,Household
+C02033,2023-03-04,Household
+C02034,2023-08-07,Student
+C02035,2023-03-16,Student
+C02036,2022-06-18,Small business
+C02037,2022-09-23,Student
+C02038,2023-04-29,Student
+C02039,2023-07-30,Small business
+C02040,2023-01-09,Small business
+C02041,2022-07-13,Student
+C02042,2023-10-10,Small business
+C02043,2023-10-31,Small business
+C02044,2022-01-27,Student
+C02045,2023-06-15,Household
+C02046,2022-07-22,Student
+C02047,2023-05-01,Student
+C02048,2023-04-17,Small business
+C02049,2023-06-01,Student
+C02050,2022-09-17,Student
+C02051,2022-08-02,Student
+C02052,2023-05-25,Household
+C02053,2022-08-10,Small business
+C02054,2022-07-17,Small business
+C02055,2023-05-08,Household
+C02056,2023-06-02,Small business
+C02057,2022-02-04,Small business
+C02058,2023-01-30,Student
+C02059,2022-02-16,Student
+C02060,2022-01-18,Small business
+C02061,2022-07-30,Small business
+C02062,2023-09-07,Household
+C02063,2022-08-08,Student
+C02064,2023-01-13,Household
+C02065,2023-06-16,Household
+C02066,2022-09-15,Student
+C02067,2022-11-07,Student
+C02068,2022-12-22,Household
+C02069,2023-03-10,Student
+C02070,2023-05-08,Student
+C02071,2022-03-03,Small business
+C02072,2022-09-14,Household
+C02073,2022-12-03,Household
+C02074,2022-03-16,Household
+C02075,2023-08-18,Household
+C02076,2022-04-22,Small business
+C02077,2023-10-14,Small business
+C02078,2023-10-20,Student
+C02079,2022-03-04,Household
+C02080,2023-01-06,Small business
+C02081,2022-04-22,Small business
+C02082,2023-07-05,Small business
+C02083,2022-03-29,Household
+C02084,2022-03-10,Student
+C02085,2022-09-25,Small business
+C02086,2022-09-10,Small business
+C02087,2022-05-08,Household
+C02088,2022-08-03,Student
+C02089,2022-10-10,Student
+C02090,2023-07-16,Student
+C02091,2023-03-24,Student
+C02092,2023-05-21,Small business
+C02093,2023-10-09,Household
+C02094,2022-05-18,Small business
+C02095,2023-03-20,Small business
+C02096,2023-03-23,Small business
+C02097,2023-09-14,Student
+C02098,2023-06-29,Household
+C02099,2023-11-07,Small business
+C02100,2022-07-16,Household
+C02101,2023-08-23,Student
+C02102,2023-03-22,Student
+C02103,2022-03-21,Household
+C02104,2023-07-15,Household
+C02105,2022-10-27,Small business
+C02106,2022-02-01,Household
+C02107,2022-02-17,Small business
+C02108,2023-03-13,Student
+C02109,2023-04-07,Household
+C02110,2022-06-29,Small business
+C02111,2023-10-26,Household
+C02112,2022-03-12,Student
+C02113,2022-01-17,Small business
+C02114,2022-02-26,Household
+C02115,2023-03-12,Small business
+C02116,2022-01-07,Household
+C02117,2022-10-16,Student
+C02118,2022-01-01,Household
+C02119,2023-03-17,Household
+C02120,2022-06-22,Student
+C02121,2022-09-03,Household
+C02122,2022-06-01,Small business
+C02123,2023-09-13,Student
+C02124,2022-02-07,Small business
+C02125,2022-07-16,Small business
+C02126,2023-04-22,Small business
+C02127,2023-11-10,Household
+C02128,2023-08-11,Household
+C02129,2023-04-24,Student
+C02130,2023-04-28,Student
+C02131,2023-09-10,Household
+C02132,2023-11-05,Small business
+C02133,2023-11-15,Household
+C02134,2023-08-18,Student
+C02135,2023-05-08,Student
+C02136,2022-04-28,Small business
+C02137,2023-07-26,Student
+C02138,2023-09-15,Household
+C02139,2023-05-31,Student
+C02140,2022-07-04,Household
+C02141,2022-03-27,Household
+C02142,2022-08-11,Student
+C02143,2023-12-01,Small business
+C02144,2023-03-06,Household
+C02145,2023-02-25,Household
+C02146,2023-08-26,Small business
+C02147,2022-08-15,Small business
+C02148,2022-11-23,Small business
+C02149,2022-10-08,Household
+C02150,2022-08-05,Student
+C02151,2022-05-06,Small business
+C02152,2022-01-12,Small business
+C02153,2022-05-06,Household
+C02154,2022-08-01,Student
+C02155,2023-05-26,Household
+C02156,2023-07-11,Small business
+C02157,2023-01-10,Household
+C02158,2022-06-30,Household
+C02159,2023-06-23,Student
+C02160,2022-05-27,Student
+C02161,2022-07-06,Small business
+C02162,2023-02-01,Student
+C02163,2022-07-09,Student
+C02164,2022-03-18,Small business
+C02165,2022-07-11,Household
+C02166,2022-01-01,Small business
+C02167,2023-10-10,Household
+C02168,2022-08-09,Household
+C02169,2023-02-27,Student
+C02170,2023-03-24,Household
+C02171,2023-05-17,Small business
+C02172,2023-01-08,Household
+C02173,2022-12-08,Household
+C02174,2022-07-21,Household
+C02175,2023-07-27,Student
+C02176,2022-06-24,Small business
+C02177,2023-02-04,Student
+C02178,2022-08-05,Household
+C02179,2022-09-01,Household
+C02180,2022-07-02,Small business
+C02181,2022-11-08,Small business
+C02182,2023-06-03,Student
+C02183,2022-05-13,Small business
+C02184,2023-11-19,Small business
+C02185,2023-05-07,Household
+C02186,2023-05-20,Student
+C02187,2023-01-06,Small business
+C02188,2023-05-30,Student
+C02189,2023-10-29,Household
+C02190,2023-10-16,Household
+C02191,2022-05-04,Student
+C02192,2022-10-13,Household
+C02193,2023-06-21,Household
+C02194,2022-02-27,Student
+C02195,2022-12-13,Student
+C02196,2022-05-04,Student
+C02197,2023-04-12,Household
+C02198,2022-06-17,Student
+C02199,2022-02-20,Household
+C02200,2022-09-21,Household
+C02201,2022-08-02,Small business
+C02202,2023-05-06,Small business
+C02203,2023-01-27,Household
+C02204,2023-08-19,Household
+C02205,2022-05-19,Student
+C02206,2023-01-13,Small business
+C02207,2023-03-04,Student
+C02208,2022-08-06,Student
+C02209,2022-10-18,Student
+C02210,2022-08-29,Household
+C02211,2023-02-14,Small business
+C02212,2022-12-05,Small business
+C02213,2023-07-03,Household
+C02214,2023-02-14,Household
+C02215,2022-06-17,Student
+C02216,2023-07-09,Small business
+C02217,2023-11-12,Student
+C02218,2023-04-16,Household
+C02219,2023-07-22,Household
+C02220,2022-12-13,Small business
+C02221,2022-05-01,Student
+C02222,2022-01-07,Small business
+C02223,2022-08-31,Student
+C02224,2023-07-12,Small business
+C02225,2023-10-01,Student
+C02226,2022-10-09,Household
+C02227,2022-01-23,Small business
+C02228,2022-07-07,Small business
+C02229,2022-11-17,Student
+C02230,2023-11-16,Household
+C02231,2023-04-04,Small business
+C02232,2022-06-15,Small business
+C02233,2022-11-06,Small business
+C02234,2022-04-13,Small business
+C02235,2022-11-10,Household
+C02236,2022-06-18,Household
+C02237,2023-09-08,Small business
+C02238,2022-02-17,Household
+C02239,2022-11-07,Household
+C02240,2022-09-06,Student
+C02241,2022-03-21,Student
+C02242,2022-11-06,Student
+C02243,2022-01-15,Small business
+C02244,2023-11-11,Household
+C02245,2022-09-02,Household
+C02246,2023-09-16,Student
+C02247,2023-05-23,Small business
+C02248,2023-11-25,Household
+C02249,2022-05-30,Small business
+C02250,2022-03-17,Small business
+C02251,2022-06-04,Household
+C02252,2022-12-17,Household
+C02253,2023-08-30,Small business
+C02254,2023-09-22,Small business
+C02255,2022-08-30,Household
+C02256,2023-05-26,Student
+C02257,2022-12-14,Household
+C02258,2022-08-10,Student
+C02259,2023-03-27,Household
+C02260,2023-05-13,Student
+C02261,2023-10-31,Small business
+C02262,2022-07-30,Student
+C02263,2022-05-10,Student
+C02264,2022-09-22,Student
+C02265,2023-05-08,Small business
+C02266,2023-10-31,Student
+C02267,2023-10-09,Household
+C02268,2023-02-22,Student
+C02269,2022-03-04,Student
+C02270,2023-05-15,Student
+C02271,2022-03-09,Student
+C02272,2022-12-25,Small business
+C02273,2023-02-04,Household
+C02274,2023-05-06,Small business
+C02275,2022-08-21,Household
+C02276,2022-06-26,Student
+C02277,2023-10-14,Student
+C02278,2022-05-17,Small business
+C02279,2023-08-17,Student
+C02280,2023-01-09,Household
+C02281,2022-09-18,Small business
+C02282,2023-06-29,Small business
+C02283,2022-06-29,Household
+C02284,2022-02-25,Small business
+C02285,2022-02-17,Household
+C02286,2023-01-18,Student
+C02287,2023-05-26,Small business
+C02288,2022-07-07,Small business
+C02289,2023-10-09,Small business
+C02290,2022-04-07,Household
+C02291,2023-10-21,Student
+C02292,2022-02-21,Small business
+C02293,2023-11-18,Student
+C02294,2022-01-26,Small business
+C02295,2022-02-27,Student
+C02296,2022-04-26,Student
+C02297,2023-04-29,Small business
+C02298,2022-06-16,Student
+C02299,2022-04-11,Household
+C02300,2023-10-16,Household
+C02301,2022-10-03,Small business
+C02302,2022-09-24,Small business
+C02303,2022-06-10,Student
+C02304,2022-04-05,Student
+C02305,2023-05-10,Student
+C02306,2023-03-10,Student
+C02307,2023-07-01,Student
+C02308,2022-08-10,Household
+C02309,2023-02-08,Household
+C02310,2023-01-24,Student
+C02311,2022-05-11,Small business
+C02312,2022-12-14,Student
+C02313,2022-09-28,Small business
+C02314,2022-03-23,Household
+C02315,2023-09-13,Household
+C02316,2022-08-01,Household
+C02317,2022-11-20,Small business
+C02318,2022-08-30,Student
+C02319,2022-05-12,Household
+C02320,2023-01-07,Student
+C02321,2023-06-01,Small business
+C02322,2022-02-13,Small business
+C02323,2022-04-24,Small business
+C02324,2023-04-05,Small business
+C02325,2023-06-05,Household
+C02326,2023-06-01,Household
+C02327,2022-11-18,Student
+C02328,2023-11-06,Small business
+C02329,2022-09-20,Household
+C02330,2022-06-26,Household
+C02331,2023-10-31,Student
+C02332,2022-01-09,Household
+C02333,2022-07-16,Household
+C02334,2023-06-04,Small business
+C02335,2023-08-07,Household
+C02336,2023-10-26,Small business
+C02337,2022-08-27,Household
+C02338,2022-09-01,Student
+C02339,2022-02-17,Student
+C02340,2023-07-13,Student
+C02341,2023-01-11,Household
+C02342,2022-02-28,Household
+C02343,2023-06-13,Household
+C02344,2023-07-10,Small business
+C02345,2022-07-02,Student
+C02346,2022-05-27,Household
+C02347,2022-03-02,Student
+C02348,2023-06-11,Small business
+C02349,2022-03-23,Student
+C02350,2022-10-14,Small business
+C02351,2023-01-13,Student
+C02352,2023-11-20,Small business
+C02353,2023-06-16,Small business
+C02354,2023-05-27,Small business
+C02355,2022-11-18,Household
+C02356,2023-09-15,Small business
+C02357,2023-05-03,Small business
+C02358,2022-05-23,Household
+C02359,2022-11-08,Student
+C02360,2022-12-20,Student
+C02361,2023-06-17,Household
+C02362,2022-12-15,Student
+C02363,2023-03-17,Student
+C02364,2022-04-24,Small business
+C02365,2023-06-17,Small business
+C02366,2023-07-11,Small business
+C02367,2022-12-03,Household
+C02368,2022-03-18,Student
+C02369,2022-10-31,Student
+C02370,2023-09-01,Student
+C02371,2023-10-06,Household
+C02372,2023-09-01,Student
+C02373,2023-01-28,Student
+C02374,2023-01-02,Student
+C02375,2023-09-07,Student
+C02376,2022-05-07,Student
+C02377,2023-03-22,Student
+C02378,2023-09-22,Student
+C02379,2023-10-28,Household
+C02380,2022-07-14,Student
+C02381,2023-10-03,Student
+C02382,2022-12-11,Student
+C02383,2022-03-21,Small business
+C02384,2022-12-08,Household
+C02385,2022-02-15,Household
+C02386,2022-11-02,Household
+C02387,2022-10-27,Small business
+C02388,2023-05-16,Household
+C02389,2022-02-17,Student
+C02390,2023-04-05,Household
+C02391,2022-04-20,Small business
+C02392,2023-05-25,Student
+C02393,2023-11-17,Household
+C02394,2022-04-27,Student
+C02395,2023-03-25,Student
+C02396,2022-10-02,Small business
+C02397,2022-04-28,Household
+C02398,2022-07-02,Small business
+C02399,2022-08-29,Student
+C02400,2023-04-14,Student
+C02401,2022-04-25,Small business
+C02402,2023-01-01,Small business
+C02403,2023-10-28,Student
+C02404,2022-12-26,Small business
+C02405,2023-01-04,Household
+C02406,2022-08-12,Small business
+C02407,2022-07-19,Student
+C02408,2023-09-12,Household
+C02409,2023-01-14,Household
+C02410,2023-07-23,Small business
+C02411,2023-10-18,Household
+C02412,2023-05-19,Student
+C02413,2023-09-08,Student
+C02414,2022-10-17,Small business
+C02415,2023-01-28,Household
+C02416,2023-07-03,Household
+C02417,2022-09-21,Small business
+C02418,2023-08-28,Small business
+C02419,2023-03-30,Student
+C02420,2023-05-14,Small business
+C02421,2022-07-18,Small business
+C02422,2022-05-02,Household
+C02423,2023-04-20,Student
+C02424,2022-05-01,Student
+C02425,2023-11-10,Student
+C02426,2023-11-29,Household
+C02427,2022-05-26,Household
+C02428,2022-04-05,Student
+C02429,2023-05-02,Small business
+C02430,2023-03-02,Student
+C02431,2023-10-11,Household
+C02432,2023-03-19,Student
+C02433,2022-10-02,Small business
+C02434,2022-11-30,Household
+C02435,2023-06-15,Small business
+C02436,2022-11-17,Small business
+C02437,2022-06-25,Small business
+C02438,2022-01-05,Small business
+C02439,2023-01-03,Household
+C02440,2023-06-01,Small business
+C02441,2023-04-18,Student
+C02442,2023-09-18,Household
+C02443,2023-09-28,Household
+C02444,2022-04-12,Small business
+C02445,2023-10-05,Small business
+C02446,2023-04-20,Household
+C02447,2023-11-01,Student
+C02448,2023-09-23,Household
+C02449,2022-12-16,Household
+C02450,2022-10-03,Student
+C02451,2022-02-01,Household
+C02452,2023-10-21,Household
+C02453,2023-02-05,Small business
+C02454,2022-01-08,Student
+C02455,2022-12-23,Household
+C02456,2023-03-27,Small business
+C02457,2022-08-03,Household
+C02458,2022-07-19,Household
+C02459,2022-08-02,Household
+C02460,2023-08-13,Student
+C02461,2022-12-16,Student
+C02462,2023-01-04,Household
+C02463,2023-06-19,Small business
+C02464,2023-04-02,Student
+C02465,2023-11-19,Small business
+C02466,2023-01-18,Small business
+C02467,2023-07-06,Household
+C02468,2023-10-28,Small business
+C02469,2023-05-07,Small business
+C02470,2023-01-19,Small business
+C02471,2022-05-25,Small business
+C02472,2023-02-12,Student
+C02473,2022-03-31,Small business
+C02474,2022-11-17,Student
+C02475,2023-05-28,Student
+C02476,2022-01-29,Small business
+C02477,2022-10-08,Household
+C02478,2022-11-03,Small business
+C02479,2022-12-21,Household
+C02480,2022-03-29,Household
+C02481,2023-06-02,Student
+C02482,2023-03-12,Student
+C02483,2022-07-18,Household
+C02484,2023-03-07,Household
+C02485,2023-04-27,Household
+C02486,2023-08-08,Household
+C02487,2023-01-18,Small business
+C02488,2022-03-24,Household
+C02489,2023-02-21,Small business
+C02490,2023-03-24,Small business
+C02491,2023-10-30,Household
+C02492,2022-09-20,Small business
+C02493,2023-05-09,Student
+C02494,2023-04-28,Household
+C02495,2023-11-04,Household
+C02496,2022-04-03,Household
+C02497,2023-08-06,Small business
+C02498,2023-08-05,Student
+C02499,2022-09-01,Small business
+C02500,2023-07-17,Student
