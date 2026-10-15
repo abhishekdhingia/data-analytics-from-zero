@@ -1,0 +1,2 @@
+# Restart Chapter 18
+Use a fresh session against the unchanged core database, then execute chapters/ch18/join_cases.sql. Temporary fixtures are session-local; closing the session removes them. Do not rerun their CREATE statements in the same session. PostgreSQL execution of these files remains pending in this foundation release. The numeric cases were executed in SQLite for independent validation.
