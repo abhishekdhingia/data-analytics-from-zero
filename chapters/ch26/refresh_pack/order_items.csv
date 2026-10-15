@@ -1,0 +1,2 @@
+order_item_id,order_id,product_id,quantity,unit_price_paise,discount_paise,unit_cost_paise
+L2026-B000001,O2026-B0001,P001,2,18000,3600,10800

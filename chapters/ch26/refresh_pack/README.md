@@ -1,0 +1,2 @@
+# Controlled refresh source
+Append these two files once to separate copies of orders and order_items. Do not append to the canonical files. The new order and line IDs must not already exist. Rebuild completed sales from the changed source, then refresh the consuming report. Reapplying the batch must be rejected as duplicate keys. February 2026 is a new-sale period; January 2026 stays the return-only test period. This relational batch is preparation for the later XLSX/PBIX refresh pack, not a tested native report refresh.

@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,location_id,status
+O2025-00001,2025-01-01,,WEB,Cancelled
+O2025-00002,2025-01-01,C02198,S06,Completed
+O2025-00003,2025-01-01,,S01,Completed
+O2025-00004,2025-01-01,,S01,Completed
+O2025-00005,2025-01-01,C02381,S05,Completed

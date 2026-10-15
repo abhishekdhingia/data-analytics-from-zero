@@ -1,0 +1,2 @@
+Line ID,Order ID,Sale date,Location,Product ID,Product,Category,Units,Unit price,Line discount,Unit cost,Gross sales,Sales after discount,First order line
+TEST-L001,TEST-O001,2025-01-15,S01,P001,Steel cup,Kitchen,2,180,36,108,360,324,1

@@ -1,0 +1,13 @@
+order_item_id,order_date,product,category,quantity,unit_price_inr
+L2025-000029,2025-01-01,Plate set,Kitchen,1,468.00
+L2025-000037,2025-01-01,Water bottle,Kitchen,5,324.00
+L2025-000018,2025-01-01,Laundry stand,Home care,5,384.00
+L2025-000025,2025-01-01,Hanger set,Home care,2,312.00
+L2025-000006,2025-01-01,Notebook,Stationery,2,50.00
+L2025-000008,2025-01-01,Notebook,Stationery,2,50.00
+L2025-000005,2025-01-01,Toothbrush pack,Personal care,5,224.00
+L2025-000007,2025-01-01,Hair oil,Personal care,4,364.00
+L2025-000009,2025-01-01,USB hub,Electronics,2,2000.00
+L2025-000044,2025-01-01,Speaker,Electronics,1,3000.00
+L2025-000093,2025-01-02,Notebook,Stationery,5,50.00
+L2025-000123,2025-01-02,Notebook,Stationery,1,50.00

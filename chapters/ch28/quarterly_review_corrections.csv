@@ -1,0 +1,3 @@
+record_id,field,approved_value,reason
+Q26-02-K,month_start,2026-02-01,Export date corrupted; source month confirmed
+Q26-03-K,sale_cost_paise,34654700,Finance replacement from source summary

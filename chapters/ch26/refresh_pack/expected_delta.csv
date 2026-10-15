@@ -1,0 +1,2 @@
+order_count,line_count,gross_sales_paise,discount_paise,sales_after_discount_paise,refunds_paise,sale_cost_paise,gross_profit_paise
+1,1,36000,3600,32400,0,21600,10800

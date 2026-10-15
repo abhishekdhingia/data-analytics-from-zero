@@ -1,0 +1,4 @@
+case,row_count,sales_paise,refund_paise
+base,3,350000,60000
+faulty_left_join,4,450000,60000
+corrected_left_join,3,350000,60000
