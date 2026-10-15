@@ -1,0 +1,27 @@
+exercise_id,starting_file,save_as,checkpoint,pass_criteria_file,solution_file,native_excel_status,native_pivot_status
+CH05-E01,chapters/ch05/excel_navigation_start.xlsx,sales_table.xlsx,checkpoints/ch05/table_checkpoint.xlsx,chapters/ch05/exercises.md,solutions/ch05/sales_table.xlsx,NOT TESTED,Not applicable
+CH05-E02,chapters/ch05/excel_navigation_start.xlsx,sales_table.xlsx,checkpoints/ch05/table_checkpoint.xlsx,chapters/ch05/exercises.md,solutions/ch05/sales_table.xlsx,NOT TESTED,Not applicable
+CH05-E03,chapters/ch05/excel_navigation_start.xlsx,sales_table.xlsx,checkpoints/ch05/table_checkpoint.xlsx,chapters/ch05/exercises.md,solutions/ch05/sales_table.xlsx,NOT TESTED,Not applicable
+CH05-E04,chapters/ch05/excel_navigation_start.xlsx,sales_table.xlsx,checkpoints/ch05/table_checkpoint.xlsx,chapters/ch05/exercises.md,solutions/ch05/sales_table.xlsx,NOT TESTED,Not applicable
+CH06-E01,chapters/ch06/formulas_start.xlsx,sales_calculations.xlsx,checkpoints/ch06/formulas_checkpoint.xlsx,chapters/ch06/exercises.md,solutions/ch06/sales_calculations.xlsx,NOT TESTED,Not applicable
+CH06-E02,chapters/ch06/formulas_start.xlsx,sales_calculations.xlsx,checkpoints/ch06/formulas_checkpoint.xlsx,chapters/ch06/exercises.md,solutions/ch06/sales_calculations.xlsx,NOT TESTED,Not applicable
+CH06-E03,chapters/ch06/formulas_start.xlsx,sales_calculations.xlsx,checkpoints/ch06/formulas_checkpoint.xlsx,chapters/ch06/exercises.md,solutions/ch06/sales_calculations.xlsx,NOT TESTED,Not applicable
+CH06-E04,chapters/ch06/formulas_start.xlsx,sales_calculations.xlsx,checkpoints/ch06/formulas_checkpoint.xlsx,chapters/ch06/exercises.md,solutions/ch06/sales_calculations.xlsx,NOT TESTED,Not applicable
+CH07-E01,chapters/ch07/sales_dirty.xlsx,sales_cleaned.xlsx,checkpoints/ch07/cleaning_checkpoint.xlsx,chapters/ch07/exercises.md,solutions/ch07/sales_cleaned.xlsx,NOT TESTED,Not applicable
+CH07-E02,chapters/ch07/sales_dirty.xlsx,sales_cleaned.xlsx,checkpoints/ch07/cleaning_checkpoint.xlsx,chapters/ch07/exercises.md,solutions/ch07/sales_cleaned.xlsx,NOT TESTED,Not applicable
+CH07-E03,chapters/ch07/sales_dirty.xlsx,sales_cleaned.xlsx,checkpoints/ch07/cleaning_checkpoint.xlsx,chapters/ch07/exercises.md,solutions/ch07/sales_cleaned.xlsx,NOT TESTED,Not applicable
+CH07-E04,chapters/ch07/sales_dirty.xlsx,sales_cleaned.xlsx,checkpoints/ch07/cleaning_checkpoint.xlsx,chapters/ch07/exercises.md,solutions/ch07/sales_cleaned.xlsx,NOT TESTED,Not applicable
+CH07-E05,chapters/ch07/sales_dirty.xlsx,sales_cleaned.xlsx,checkpoints/ch07/cleaning_checkpoint.xlsx,chapters/ch07/exercises.md,solutions/ch07/sales_cleaned.xlsx,NOT TESTED,Not applicable
+CH08-E01,chapters/ch08/lookups_start.xlsx,sales_enriched.xlsx,checkpoints/ch08/lookup_checkpoint.xlsx,chapters/ch08/exercises.md,solutions/ch08/sales_enriched.xlsx,NOT TESTED,Not applicable
+CH08-E02,chapters/ch08/lookups_start.xlsx,sales_enriched.xlsx,checkpoints/ch08/lookup_checkpoint.xlsx,chapters/ch08/exercises.md,solutions/ch08/sales_enriched.xlsx,NOT TESTED,Not applicable
+CH08-E03,chapters/ch08/lookups_start.xlsx,sales_enriched.xlsx,checkpoints/ch08/lookup_checkpoint.xlsx,chapters/ch08/exercises.md,solutions/ch08/sales_enriched.xlsx,NOT TESTED,Not applicable
+CH08-E04,chapters/ch08/lookups_start.xlsx,sales_enriched.xlsx,checkpoints/ch08/lookup_checkpoint.xlsx,chapters/ch08/exercises.md,solutions/ch08/sales_enriched.xlsx,NOT TESTED,Not applicable
+CH09-E01,chapters/ch09/pivots_start.xlsx,performance_pivots.xlsx,checkpoints/ch09/pivot_reference_checkpoint.xlsx,chapters/ch09/exercises.md,solutions/ch09/pivot_reference.xlsx,NOT TESTED,PENDING
+CH09-E02,chapters/ch09/pivots_start.xlsx,performance_pivots.xlsx,checkpoints/ch09/pivot_reference_checkpoint.xlsx,chapters/ch09/exercises.md,solutions/ch09/pivot_reference.xlsx,NOT TESTED,PENDING
+CH09-E03,chapters/ch09/pivots_start.xlsx,performance_pivots.xlsx,checkpoints/ch09/pivot_reference_checkpoint.xlsx,chapters/ch09/exercises.md,solutions/ch09/pivot_reference.xlsx,NOT TESTED,PENDING
+CH09-E04,chapters/ch09/pivots_start.xlsx,performance_pivots.xlsx,checkpoints/ch09/pivot_reference_checkpoint.xlsx,chapters/ch09/exercises.md,solutions/ch09/pivot_reference.xlsx,NOT TESTED,PENDING
+CH09-E05,chapters/ch09/pivots_start.xlsx,performance_pivots.xlsx,checkpoints/ch09/pivot_reference_checkpoint.xlsx,chapters/ch09/exercises.md,solutions/ch09/pivot_reference.xlsx,NOT TESTED,PENDING
+CH10-E01,chapters/ch10/report_start.xlsx,excel_business_report.xlsx,checkpoints/ch10/report_reference_checkpoint.xlsx,chapters/ch10/exercises.md,solutions/ch10/excel_report_reference.xlsx,NOT TESTED,PENDING
+CH10-E02,chapters/ch10/report_start.xlsx,excel_business_report.xlsx,checkpoints/ch10/report_reference_checkpoint.xlsx,chapters/ch10/exercises.md,solutions/ch10/excel_report_reference.xlsx,NOT TESTED,PENDING
+CH10-E03,chapters/ch10/report_start.xlsx,excel_business_report.xlsx,checkpoints/ch10/report_reference_checkpoint.xlsx,chapters/ch10/exercises.md,solutions/ch10/excel_report_reference.xlsx,NOT TESTED,PENDING
+CH10-E04,chapters/ch10/report_start.xlsx,excel_business_report.xlsx,checkpoints/ch10/report_reference_checkpoint.xlsx,chapters/ch10/exercises.md,solutions/ch10/excel_report_reference.xlsx,NOT TESTED,PENDING

@@ -1,0 +1,53 @@
+table,field,type,nullable,meaning
+products,product_id,text,no,Unique product identifier; FK where repeated
+products,product_name,text,no,Approved product label
+products,category,text,no,One of five approved categories
+products,active,integer,no,"1 active, 0 inactive"
+customers,customer_id,text,no,Synthetic customer identifier; null allowed only on orders / derived sales
+customers,enrollment_date,ISO date,no,Customer enrollment date
+customers,segment,text,no,Broad synthetic segment
+locations,location_id,text,no,Reporting location: six stores or WEB
+locations,location_name,text,no,Human-readable location label
+locations,channel,text,no,Store or Online
+orders,order_id,text,no,Unique order identifier; FK on order_items
+orders,order_date,ISO date,no,Sale/posting date if Completed
+orders,customer_id,text,yes,Synthetic customer identifier; null allowed only on orders / derived sales
+orders,location_id,text,no,Reporting location: six stores or WEB
+orders,status,text,no,Completed or Cancelled
+order_items,order_item_id,text,no,Unique sale line identifier; FK on returns
+order_items,order_id,text,no,Unique order identifier; FK on order_items
+order_items,product_id,text,no,Unique product identifier; FK where repeated
+order_items,quantity,integer,no,Positive units on sale line
+order_items,unit_price_paise,integer,no,"Pre-discount unit selling price, paise"
+order_items,discount_paise,integer,no,"Total discount on the entire line or aggregate, paise"
+order_items,unit_cost_paise,integer,no,"Original transaction-time cost per unit, paise"
+returns,return_id,text,no,Unique return-event identifier
+returns,order_item_id,text,no,Unique sale line identifier; FK on returns
+returns,return_date,ISO date,no,Refund/recovery posting date
+returns,returned_quantity,integer,no,Positive returned units for this event
+returns,refund_paise,integer,no,"Refund for this event, paise"
+returns,reason,text,no,"Changed mind, Damaged, or Wrong item"
+returns,recovered_cost_paise,integer,no,"Inventory cost recovered, paise"
+inventory,snapshot_date,ISO date,no,End-of-month inventory snapshot date
+inventory,location_id,text,no,Reporting location: six stores or WEB
+inventory,product_id,text,no,Unique product identifier; FK where repeated
+inventory,stock_quantity,integer,no,Nonnegative units in this snapshot only
+targets,month_start,ISO date,no,First date of reporting month
+targets,location_id,text,no,Reporting location: six stores or WEB
+targets,net_sales_target_paise,integer,no,"Month-location net-sales target, paise"
+targets,gross_profit_target_paise,integer,no,"Month-location gross-profit target, paise"
+calendar,calendar_date,ISO date,no,Unique continuous calendar date
+calendar,year,integer,no,Calendar year
+calendar,month,integer,no,Month number 1–12
+calendar,month_start,ISO date,no,First date of reporting month
+calendar,quarter,integer,no,Quarter 1–4
+calendar,iso_weekday,integer,no,Monday=1 through Sunday=7
+historical_monthly_summary,month_start,ISO date,no,First date of reporting month
+historical_monthly_summary,location_id,text,no,Reporting location: six stores or WEB
+historical_monthly_summary,category,text,no,One of five approved categories
+historical_monthly_summary,gross_sales_paise,integer,no,"Eligible pre-discount sales, paise"
+historical_monthly_summary,discount_paise,integer,no,"Total discount on the entire line or aggregate, paise"
+historical_monthly_summary,sales_after_discount_paise,integer,no,"Eligible sales less discounts, before refunds, paise"
+historical_monthly_summary,refunds_paise,integer,no,"Refund events posted in month, paise"
+historical_monthly_summary,sale_cost_paise,integer,no,"Original cost on eligible sales, paise"
+historical_monthly_summary,recovered_cost_paise,integer,no,"Inventory cost recovered, paise"

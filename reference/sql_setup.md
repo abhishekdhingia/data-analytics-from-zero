@@ -1,0 +1,4 @@
+# Database implementation status
+Teaching dialect: PostgreSQL, as specified in the blueprint. core/retail_database_setup.sql creates schema dafz_v01 in a database chosen by the reader, loads all ten canonical tables, and commits atomically. It contains no DROP statements. Use a dedicated empty training database. Existing schema dafz_v01 causes failure instead of silent overwrite. In later sessions set search_path TO dafz_v01 before querying. Installation, permissions and interface instructions must be verified before publication.
+
+Native PostgreSQL execution has NOT been tested in this environment. Independent SQL validation uses Python's bundled SQLite on the exact integer-paise CSV contents. That validates the tested arithmetic and relationships, not PostgreSQL installation or dialect compatibility. reference/validation.sqlite is an author QA artifact, not a substitute for the planned PostgreSQL training environment.

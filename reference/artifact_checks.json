@@ -1,0 +1,1409 @@
+[
+  {
+    "test": "solutions/ch05/sales_table.xlsx: sale value",
+    "actual": 3000,
+    "expected": 3000,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH06 changing rate recalculates",
+    "actual": 490492.10000000003,
+    "expected": 490492.1,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch06/sales_calculations.xlsx: gross",
+    "actual": 557026,
+    "expected": 557026,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch06/sales_calculations.xlsx: discount",
+    "actual": 66533.9,
+    "expected": 66533.9,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch06/sales_calculations.xlsx: sales",
+    "actual": 490492.10000000003,
+    "expected": 490492.1,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch06/sales_calculations.xlsx: store",
+    "actual": 60028.399999999994,
+    "expected": 60028.4,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch06/sales_calculations.xlsx: count",
+    "actual": 183,
+    "expected": 183,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch06/sales_calculations.xlsx: zero guard",
+    "actual": "Undefined",
+    "expected": "Undefined",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch06/sales_calculations.xlsx: fixed reference",
+    "actual": 15,
+    "expected": 15,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 8",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 9",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 10",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 11",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 12",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 13",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 14",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 15",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 16",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 17",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 18",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 19",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 20",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 21",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 22",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 23",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 24",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 25",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 26",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 27",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 28",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 29",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 30",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 31",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 32",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 33",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 34",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 35",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 36",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 37",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 38",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 39",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 40",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 41",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 42",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 43",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 44",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 45",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 46",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 47",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 48",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 49",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 50",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 51",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 52",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 53",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 54",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 55",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 56",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 57",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 58",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 59",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 60",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 61",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 62",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 63",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 64",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 65",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 66",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 67",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 68",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 69",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 70",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 71",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 72",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 73",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 74",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 75",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 76",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 77",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 78",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 79",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 80",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 81",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 82",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 83",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 84",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 85",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 86",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 87",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 88",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 89",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 90",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 91",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 92",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 93",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 94",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 95",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 96",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 97",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 98",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 99",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 100",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 101",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 102",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 103",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 104",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 105",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 106",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 107",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 108",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 109",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 110",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 111",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 112",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 113",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 114",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 115",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 116",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 117",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 118",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 119",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 120",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 121",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 122",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 123",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 124",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 125",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 126",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 127",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 128",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 129",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 130",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 131",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 132",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 133",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 134",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 135",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 136",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 137",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 138",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 139",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 140",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 141",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 142",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 143",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 144",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 145",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 146",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 147",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 148",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 149",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 150",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 151",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 152",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 153",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 154",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 155",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 156",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 157",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 158",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 159",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 160",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 161",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 162",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 163",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 164",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 165",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 166",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 167",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 168",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 169",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 170",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 171",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 172",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 173",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 174",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 175",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 176",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 177",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 178",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 179",
+    "actual": "Home care",
+    "expected": "Home care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 180",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 181",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 182",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 183",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 184",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 185",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 186",
+    "actual": "Kitchen",
+    "expected": "Kitchen",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 187",
+    "actual": "Personal care",
+    "expected": "Personal care",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 188",
+    "actual": "Stationery",
+    "expected": "Stationery",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH08 lookup 189",
+    "actual": "Electronics",
+    "expected": "Electronics",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch08/sales_enriched.xlsx: unmatched",
+    "actual": "Unmatched",
+    "expected": "Unmatched",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch08/sales_enriched.xlsx: numeric key normalized",
+    "actual": "P011",
+    "expected": "P011",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch08/sales_enriched.xlsx: ambiguous fixture",
+    "actual": "Ambiguous",
+    "expected": "Ambiguous",
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch09/pivot_reference.xlsx: matrix total",
+    "actual": 490492.1,
+    "expected": 490492.1,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch09/pivot_reference.xlsx: monthly total",
+    "actual": 490492.09999999986,
+    "expected": 490492.1,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH10 changed quantity reaches report",
+    "actual": 491742.10000000003,
+    "expected": 491742.1,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "CH10 changed quantity reaches monthly chart source",
+    "actual": 61160.6,
+    "expected": 61160.6,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch10/excel_report_reference.xlsx: report sales",
+    "actual": 490492.10000000003,
+    "expected": 490492.1,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch10/excel_report_reference.xlsx: report rows",
+    "actual": 183,
+    "expected": 183,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  },
+  {
+    "test": "solutions/ch10/excel_report_reference.xlsx: distinct orders",
+    "actual": 72,
+    "expected": 72,
+    "status": "PASS",
+    "engine": "Artifact Tool"
+  }
+]

@@ -1,0 +1,77 @@
+test_id,test,status,actual,expected,method
+T001,SQLite integrity,PASS,ok,ok,SQLite / persisted CSV
+T002,Foreign key violations,PASS,0,0,SQLite / persisted CSV
+T003,products: imported row count,PASS,60,60,SQLite / persisted CSV
+T004,customers: imported row count,PASS,2500,2500,SQLite / persisted CSV
+T005,locations: imported row count,PASS,7,7,SQLite / persisted CSV
+T006,orders: imported row count,PASS,12000,12000,SQLite / persisted CSV
+T007,order_items: imported row count,PASS,30000,30000,SQLite / persisted CSV
+T008,returns: imported row count,PASS,3272,3272,SQLite / persisted CSV
+T009,inventory: imported row count,PASS,5040,5040,SQLite / persisted CSV
+T010,targets: imported row count,PASS,84,84,SQLite / persisted CSV
+T011,calendar: imported row count,PASS,1096,1096,SQLite / persisted CSV
+T012,historical_monthly_summary: imported row count,PASS,420,420,SQLite / persisted CSV
+T013,products: required values present,PASS,0,0,CSV required-field scan
+T014,customers: required values present,PASS,0,0,CSV required-field scan
+T015,locations: required values present,PASS,0,0,CSV required-field scan
+T016,orders: required values present,PASS,0,0,CSV required-field scan
+T017,order_items: required values present,PASS,0,0,CSV required-field scan
+T018,returns: required values present,PASS,0,0,CSV required-field scan
+T019,inventory: required values present,PASS,0,0,CSV required-field scan
+T020,targets: required values present,PASS,0,0,CSV required-field scan
+T021,calendar: required values present,PASS,0,0,CSV required-field scan
+T022,historical_monthly_summary: required values present,PASS,0,0,CSV required-field scan
+T023,Six stores and one online member,PASS,"(6, 1)","(6, 1)",SQLite / persisted CSV
+T024,Orders stay in core year,PASS,0,0,SQLite / persisted CSV
+T025,Customer enrollment precedes order,PASS,0,0,SQLite / persisted CSV
+T026,No cancelled order receives a return,PASS,0,0,SQLite / persisted CSV
+T027,Return dates valid relative to sale and cutoff,PASS,0,0,SQLite / persisted CSV
+T028,Partial refund pricing is exact,PASS,0,0,SQLite / persisted CSV
+T029,Recovered cost follows documented damage policy,PASS,0,0,SQLite / persisted CSV
+T030,Cumulative quantity/refund/cost caps,PASS,0,0,SQLite / persisted CSV
+T031,Multiple-return lines exist,PASS,True,True,SQLite / persisted CSV
+T032,Guest orders exist,PASS,True,True,SQLite / persisted CSV
+T033,Historical first-of-month grain,PASS,True,True,CSV date scan
+T034,Targets first-of-month grain,PASS,True,True,CSV date scan
+T035,Calendar continuous through 2024–2026,PASS,"1096 continuous dates, 2024-01-01 to 2026-12-31","1096 continuous dates, 2024-01-01 to 2026-12-31",Python date sequence
+T036,Calendar attributes correct,PASS,True,True,Python date attributes
+T037,Inventory dates are month ends,PASS,True,True,Python date check
+T038,Independent Decimal INR reconciles gross_sales_paise,PASS,7228393600,7228393600,Decimal rupees vs SQL integer paise
+T039,Independent Decimal INR reconciles discount_paise,PASS,846292600.0,846292600,Decimal rupees vs SQL integer paise
+T040,Independent Decimal INR reconciles sales_after_discount_paise,PASS,6382101000.0,6382101000,Decimal rupees vs SQL integer paise
+T041,Independent Decimal INR reconciles refunds_paise,PASS,369998260.0,369998260,Decimal rupees vs SQL integer paise
+T042,Independent Decimal INR reconciles sale_cost_paise,PASS,5675984944.00,5675984944,Decimal rupees vs SQL integer paise
+T043,Independent Decimal INR reconciles recovered_cost_paise,PASS,221783016.00,221783016,Decimal rupees vs SQL integer paise
+T044,All 420 monthly-location-category slices reconcile,PASS,0,0,SQLite / persisted CSV
+T045,Decimal slice reconciliation,PASS,0,0,"Decimal vs SQL by month, location, category"
+T046,All 420 historical controls independently reconstruct,PASS,0,0,Independent Decimal from author-only 2024 generation inputs
+T047,All 84 targets match documented policy,PASS,84,84,Exact integer target reconstruction
+T048,Product enrichment preserves count and sales,PASS,"(29268, 6382101000)","(29268, 6382101000)",SQLite / persisted CSV
+T049,Derived fact sales rows,PASS,29268,29268,CSV vs SQL
+T050,Derived fact refunds total,PASS,381163700,381163700,CSV vs canonical source
+T051,Derived fact sales total,PASS,6382101000,6382101000,CSV vs SQL
+T052,Derived fact sales details match source,PASS,True,True,CSV detail check
+T053,Return-only January has refunds but no sales,PASS,True,True,SQLite / persisted CSV
+T054,CH01 row count,PASS,12,12,CSV
+T055,CH01 answer calculation,PASS,14708.00,14708.00,Independent Decimal arithmetic
+T056,CH01 each answer line matches its source,PASS,True,True,Independent per-line calculation
+T057,CH01 highest-unit category differs from highest sales,PASS,True,True,Categorical comparison
+T058,CH07 row bridge,PASS,"(202, 197, 5)","(202, 197, 5)",CSV row accounting
+T059,CH07 row IDs form exact partition,PASS,202 IDs across accepted and quarantine,"202 source IDs, once each",Set partition
+T060,CH07 accepted keys unique,PASS,197,197,Business key count
+T061,CH07 legitimate lookalikes survive,PASS,True,True,Known distinct business IDs
+T062,CH07 accepted amounts reconcile to canonical subset,PASS,44408700.00,44408700,Independent source comparison
+T063,CH07 documented decisions cover every injected change,PASS,10,10,Defect ledger
+T064,CH07 missing guest remains null,PASS,,,Null semantics
+T065,CH07 canonical value bridge,PASS,44544900,44544900,Author truth only; not recoverable from dirty source alone
+T066,CH18 faulty join reproduces inflation,PASS,"(4, 450000, 60000)","(4, 450000, 60000)",SQLite / persisted CSV
+T067,CH18 pre-aggregated join fixes inflation,PASS,"(3, 350000, 60000)","(3, 350000, 60000)",SQLite / persisted CSV
+T068,CH18 unmatched audit,PASS,"[('A2',), ('A3',)]","[('A2',), ('A3',)]",SQLite / persisted CSV
+T069,SQL refresh known additions,PASS,"(1, 1, 32400, 21600)","(1, 1, 32400, 21600)",SQLite / persisted CSV
+T070,Repeated batch rejected by primary key,PASS,True,True,SQLite / persisted CSV
+T071,Canonical order count restored after refresh test,PASS,12000,12000,SQLite / persisted CSV
+T072,Setup SQL payload matches canonical tables,PASS,True,True,SQLite compatibility adaptation; PostgreSQL NOT executed
+T073,Story: 2025 net sales exceed 2024,PASS,True,True,Executed annual totals
+T074,Story: 2025 gross profit below 2024,PASS,True,True,Executed annual totals
+T075,Story: 2025 weighted discount rate higher,PASS,True,True,Ratio of totals
+T076,Story: electronics sales share higher,PASS,True,True,Category sales mix

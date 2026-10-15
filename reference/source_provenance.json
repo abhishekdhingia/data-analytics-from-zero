@@ -1,0 +1,8 @@
+{
+  "core/orders.csv": "519b867774512c0074a6e42724bed1def42869419894b795d558f56e657560c6",
+  "core/order_items.csv": "04d4fa4b8b816571f884f90d56113acf67c527c3179649b0e6c0e0bf12ba05f4",
+  "core/products.csv": "c88d41b306abebda902c7ce33f8555de3fd687925cf74b1a8fbbeb1ee1a9134c",
+  "chapters/ch07/sales_dirty_source.csv": "4f1108f0b459b2e3868288609e5ce06f57648cf94d629d36cbc364da4e2f41a3",
+  "solutions/ch07/accepted.csv": "3608ca9998ad840a9f27922e5c01f05a88bcd9aeffb6e5da64818b1514eade24",
+  "solutions/ch07/quarantine.csv": "dbc9a922965a05008d0a57c42a2ab0e70bd23add75a14b27a1fa80f8b96768d9"
+}

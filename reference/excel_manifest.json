@@ -1,0 +1,258 @@
+{
+  "version": "0.2",
+  "foundation_version": "0.1.0",
+  "native_excel_tested": false,
+  "native_pivots_included": false,
+  "files": [
+    {
+      "path": "Practice_Guide.md",
+      "bytes": 15110,
+      "sha256": "7767a21f94fd1ca77048e9d02b7f43d1d4bf6bad958816f8fffecc9e150fe353"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3251,
+      "sha256": "20d4098dff30554ff39155931f6b013b670cb6cc10d4c5eab75dfe8f56cc7463"
+    },
+    {
+      "path": "chapters/ch05/excel_navigation_start.xlsx",
+      "bytes": 20475,
+      "sha256": "4b40eacfdd3211bbf2d301664930ddc84fd88e584be839ed51f8ac3ded53f0bd"
+    },
+    {
+      "path": "chapters/ch05/exercises.md",
+      "bytes": 2800,
+      "sha256": "1ffde23dcac0a13c653e1b2cc3b508e574745d94bdb2113bd436e62747a254fc"
+    },
+    {
+      "path": "chapters/ch06/exercises.md",
+      "bytes": 2985,
+      "sha256": "c4f7af468d456c6abf7757bb47775c2811fbd211097ee8c82508fc68b832b90b"
+    },
+    {
+      "path": "chapters/ch06/formulas_start.xlsx",
+      "bytes": 24315,
+      "sha256": "2a17d1a69366450a6cf0a69803210c9e00da66c230a290c72b01e8b6bf56acce"
+    },
+    {
+      "path": "chapters/ch07/exercises.md",
+      "bytes": 3567,
+      "sha256": "58bada31d7ed9cdd51dd68b41d6707462c495a5d802b80eed966386bd358fd6d"
+    },
+    {
+      "path": "chapters/ch07/sales_dirty.xlsx",
+      "bytes": 34514,
+      "sha256": "f320b297f46e8555b35fc67ae48e9c4be8c7b5516e7dfe1e00e64580893769a3"
+    },
+    {
+      "path": "chapters/ch08/exercises.md",
+      "bytes": 3033,
+      "sha256": "57a6ac0be91a8d6d93d0ceec66897b919b75a12129ba3c3e5efa01eee1c39d6a"
+    },
+    {
+      "path": "chapters/ch08/lookups_start.xlsx",
+      "bytes": 28748,
+      "sha256": "c9c55f4d66073acd02e66639d28e782d209768d554f1e3f0e37e12dbbb6dc901"
+    },
+    {
+      "path": "chapters/ch09/exercises.md",
+      "bytes": 3817,
+      "sha256": "49145ebf32af2d69b96281661d35bab59eb7d0d2dc18847ecdd6e9f951d69c90"
+    },
+    {
+      "path": "chapters/ch09/pivots_start.xlsx",
+      "bytes": 26494,
+      "sha256": "afa0f0287a8f150576e65e1d2aaf3c9e228c8ec85218f56606d7c43b8ae35ae5"
+    },
+    {
+      "path": "chapters/ch09/refresh_test_row.csv",
+      "bytes": 236,
+      "sha256": "bd097b97b356ff8dc3d504926e61831178bf4f872e9ba093231a19c2651cd934"
+    },
+    {
+      "path": "chapters/ch10/exercises.md",
+      "bytes": 3243,
+      "sha256": "fefe887c76d25ef28f3c07ad3780667ca86ccb3de5c31504bba146daf60a4c7f"
+    },
+    {
+      "path": "chapters/ch10/report_start.xlsx",
+      "bytes": 32514,
+      "sha256": "20c95229ed8951586662fe2f8560e09f7b176ffb41751b2c67bd5d4601ae4f7b"
+    },
+    {
+      "path": "checkpoints/ch05/restart.md",
+      "bytes": 245,
+      "sha256": "0eeb188e0adef5f50e16c3b55d356105dfdf97a442f030858c9b2d394868e2fc"
+    },
+    {
+      "path": "checkpoints/ch05/table_checkpoint.xlsx",
+      "bytes": 21500,
+      "sha256": "aee423241b1c09c101938611ea853b744c67bc25281453898c5e4ab13e197c09"
+    },
+    {
+      "path": "checkpoints/ch06/formulas_checkpoint.xlsx",
+      "bytes": 31614,
+      "sha256": "9d96508291d3a8afa3a6d95777cfbcdf9107cc2f9809ec1b28afbac2d18cea94"
+    },
+    {
+      "path": "checkpoints/ch06/restart.md",
+      "bytes": 240,
+      "sha256": "e15c818fc1ce273bd95362c876ffc65250a3db4dee9c4aa5e0991cf93b685049"
+    },
+    {
+      "path": "checkpoints/ch07/cleaning_checkpoint.xlsx",
+      "bytes": 44545,
+      "sha256": "adf9bb25280622599ca4fad525921579c80e8bea1b64d92bb713f5a2916c8c3b"
+    },
+    {
+      "path": "checkpoints/ch07/restart.md",
+      "bytes": 237,
+      "sha256": "5d6ecd823a5d78e90da7c8413bb378769b22c49f8b3c56d90162dba5221296da"
+    },
+    {
+      "path": "checkpoints/ch08/lookup_checkpoint.xlsx",
+      "bytes": 38536,
+      "sha256": "be93552bfcea4b2520edccfbca00e5f3139a45a61fbdfe40c19736b41bfaf1f7"
+    },
+    {
+      "path": "checkpoints/ch08/restart.md",
+      "bytes": 237,
+      "sha256": "d97a5d038882a04ac5438fe3fc42d3c379f8ff67dc7181392b5e9bdac1b79801"
+    },
+    {
+      "path": "checkpoints/ch09/pivot_reference_checkpoint.xlsx",
+      "bytes": 30166,
+      "sha256": "96b8455480f9d7ea52dca9d4d466b424c69fe2c2cf45a800ac3a36768334cb6b"
+    },
+    {
+      "path": "checkpoints/ch09/restart.md",
+      "bytes": 267,
+      "sha256": "e3ba8b81cca147033f5026e87af933a85dabce32b6b91c788f902ebd4596cba6"
+    },
+    {
+      "path": "checkpoints/ch10/report_reference_checkpoint.xlsx",
+      "bytes": 36392,
+      "sha256": "6d58a2480758473a18d3855b2860e1a3c81aa71b5f34435916c18260799275ea"
+    },
+    {
+      "path": "checkpoints/ch10/restart.md",
+      "bytes": 269,
+      "sha256": "dbe5852e38ddeb4b9892ab2587844bc7dcd9fe5fb56b3750b60265f553ff8bbb"
+    },
+    {
+      "path": "reference/answer_ledger.csv",
+      "bytes": 5022,
+      "sha256": "5bc0eb5643acbcd0d3b5fe57c132274e3414389edba40fd98bfeef1215e848a1"
+    },
+    {
+      "path": "reference/artifact_checks.json",
+      "bytes": 30686,
+      "sha256": "a629f301c67560ebf6bb924042b8b20a9b6ccd5fa82c2727577a381cfb23125c"
+    },
+    {
+      "path": "reference/controls.json",
+      "bytes": 876,
+      "sha256": "4714b1e3cd5d77b1942b28fc97e27ff8e0e9bdec90857b5966c9e1aeead522ab"
+    },
+    {
+      "path": "reference/exercise_index.csv",
+      "bytes": 5198,
+      "sha256": "f3910d14d7e7ff3e8f61a5ac95878d9118d94d1ca4a39cf3ba4112292fb32380"
+    },
+    {
+      "path": "reference/export_checks.csv",
+      "bytes": 29244,
+      "sha256": "ac53001a309fb679a8dfafb49a5e8fb1a683f86f6e8d3619fbadb95a4f515367"
+    },
+    {
+      "path": "reference/official_sources.md",
+      "bytes": 974,
+      "sha256": "9c6710497d460ded172a6ffb2218467a1cc2910f494b36b0fd9af1e88cff8afd"
+    },
+    {
+      "path": "reference/source_data.json",
+      "bytes": 168652,
+      "sha256": "2fef98c798e2041207d1aedc653dd9edd61a2cc700a80ea82e05eb5926cc7d02"
+    },
+    {
+      "path": "reference/source_provenance.json",
+      "bytes": 590,
+      "sha256": "f4e1f2a0b2d2537c9aa1cf900c22c9748aac6fb094e7a71430f5c153e52555b6"
+    },
+    {
+      "path": "reference/validation_report.md",
+      "bytes": 2522,
+      "sha256": "5faec583c0ba64bd835a3abb984e5fbabd4e295e3b1a1026725b11a699b679a2"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 23814,
+      "sha256": "4205182e9d2ffd6e725576aeb36fb3b6a5a2b989a5924f5e34f90d1c53c8b928"
+    },
+    {
+      "path": "scripts/check_exports.py",
+      "bytes": 8841,
+      "sha256": "4edd22aac4c8d88948728f12cc43601891e6c15dc764c23bea0e9eb7dc3ac974"
+    },
+    {
+      "path": "solutions/ch05/sales_table.xlsx",
+      "bytes": 21500,
+      "sha256": "aee423241b1c09c101938611ea853b744c67bc25281453898c5e4ab13e197c09"
+    },
+    {
+      "path": "solutions/ch05/solution_notes.md",
+      "bytes": 295,
+      "sha256": "c9d8e51eaf4205ec79cdc0e35caa155c1c11d4f9d61a4144b4de25e19297f46a"
+    },
+    {
+      "path": "solutions/ch06/sales_calculations.xlsx",
+      "bytes": 31614,
+      "sha256": "9d96508291d3a8afa3a6d95777cfbcdf9107cc2f9809ec1b28afbac2d18cea94"
+    },
+    {
+      "path": "solutions/ch06/solution_notes.md",
+      "bytes": 302,
+      "sha256": "9334a86f46a03f5bac2edceb27c81f4e3ab6dd5dd7b6a4038125a42668c368f4"
+    },
+    {
+      "path": "solutions/ch07/sales_cleaned.xlsx",
+      "bytes": 44545,
+      "sha256": "adf9bb25280622599ca4fad525921579c80e8bea1b64d92bb713f5a2916c8c3b"
+    },
+    {
+      "path": "solutions/ch07/solution_notes.md",
+      "bytes": 297,
+      "sha256": "065e7e7bce600a48f215b2067e827ee6a8e1081684fe10886670a23d355b36f8"
+    },
+    {
+      "path": "solutions/ch08/sales_enriched.xlsx",
+      "bytes": 38536,
+      "sha256": "be93552bfcea4b2520edccfbca00e5f3139a45a61fbdfe40c19736b41bfaf1f7"
+    },
+    {
+      "path": "solutions/ch08/solution_notes.md",
+      "bytes": 298,
+      "sha256": "0c17eed97d965028d29e56726540ac8b36d6caf67aa02ccaa4c8b95fdc3efc4d"
+    },
+    {
+      "path": "solutions/ch09/pivot_reference.xlsx",
+      "bytes": 30166,
+      "sha256": "96b8455480f9d7ea52dca9d4d466b424c69fe2c2cf45a800ac3a36768334cb6b"
+    },
+    {
+      "path": "solutions/ch09/solution_notes.md",
+      "bytes": 295,
+      "sha256": "a5bda31eb237d552d793f6038fec2ac53bc5a29fa5890c6e120a356d37639a02"
+    },
+    {
+      "path": "solutions/ch10/excel_report_reference.xlsx",
+      "bytes": 36392,
+      "sha256": "6d58a2480758473a18d3855b2860e1a3c81aa71b5f34435916c18260799275ea"
+    },
+    {
+      "path": "solutions/ch10/solution_notes.md",
+      "bytes": 303,
+      "sha256": "1d0f0133057ac5143b928354a82c499c42f8f01d224d1467333c414c43810f82"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Provenance
+Dataset version: 0.1.0. Seed: 20261012. Generation date: 12 October 2026.
+All source records were generated from newly written code for DATA ANALYTICS FROM ZERO by Abhishek Dhingia. No other book or external dataset supplied records, exercise prose, or solutions. Standard analytics concepts and SQL syntax are shared knowledge; universal uniqueness is not claimed.
+2025 seed = base + 2025. The 2024 scenario uses base + 2024 and 10,800 generated orders. Its monthly summary is the learner-facing comparator; reference/build_inputs retains the transaction sources solely as author QA evidence. Runtime details are recorded in validation_report.md. Python Random algorithms are deterministic for the recorded runtime; the published CSV bytes and their hashes remain the authoritative frozen inputs. Rebuilding in another runtime must be compared to the manifest.
+Originality is a production requirement. Final retailer name remains undecided. This package is a data foundation, not the manuscript, native workbook/report release, or full chapter practice bundle.

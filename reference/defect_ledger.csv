@@ -1,0 +1,11 @@
+defect_id,source_row_id,order_item_id,field,dirty_value,canonical_value,handling,evidence
+D001,SRC0003,L2025-000005,category,  Personal care  ,Personal care,repair,Trim leading/trailing spaces; product master confirms category.
+D002,SRC0005,L2025-000007,category,PERSONAL CARE,Personal care,repair,Case-insensitive approved category mapping.
+D003,SRC0007,L2025-000009,order_date,01/01/2025,2025-01-01,repair,Source convention is DD/MM/YYYY; compare provided source correction note.
+D004,SRC0009,L2025-000011,quantity, 2 ,2,repair,"Trim text, then parse an integer."
+D005,SRC0011,L2025-000013,unit_price_inr,,252.00,quarantine,Price unavailable in learner extract; never impute catalog or mean price.
+D006,SRC0013,L2025-000015,quantity,two,3,quarantine,Unapproved textual quantity. No authenticated correction supplied.
+D007,SRC0015,L2025-000017,product_id,P999,P015,quarantine,No match in supplied product master. Do not invent a category.
+D008,SRC0017,L2025-000019,customer_id,,C02313,retain,Guest customer is a legitimate null; customer identity is not needed for line sales.
+D009,SRC0201,L2025-000023,record,duplicate import,one original row,duplicate quarantine,"Exact duplicate of SRC0021, apart from import row ID."
+D010,SRC0202,L2025-000033,record,duplicate import,one original row,duplicate quarantine,"Exact duplicate of SRC0031, apart from import row ID."

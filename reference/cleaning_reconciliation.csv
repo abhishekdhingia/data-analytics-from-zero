@@ -1,0 +1,5 @@
+population,rows,known_canonical_sales_paise,meaning
+Original unique business lines,200,44544900,"Author control, not a valid raw dirty-file sum"
+Accepted lines,197,44408700,Repaired valid learner output
+Unresolved original lines,3,136200,Excluded from learner financial output; values known only to author
+Duplicate imports,2,,No additional business sales

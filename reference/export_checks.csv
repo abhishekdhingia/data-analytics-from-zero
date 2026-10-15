@@ -1,0 +1,355 @@
+test,status,actual,expected,engine
+workbook file count,PASS,18,18,Saved XLSX XML + independent Python
+excel_navigation_start.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+excel_navigation_start.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+excel_navigation_start.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+excel_navigation_start.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+excel_navigation_start.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+formulas_start.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+formulas_start.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+formulas_start.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+formulas_start.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+formulas_start.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+sales_dirty.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+sales_dirty.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+sales_dirty.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+lookups_start.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+lookups_start.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+lookups_start.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+lookups_start.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+lookups_start.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+pivots_start.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+pivots_start.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+pivots_start.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+pivots_start.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+pivots_start.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+report_start.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+report_start.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+report_start.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+report_start.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+report_start.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+table_checkpoint.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+table_checkpoint.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+table_checkpoint.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+table_checkpoint.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+table_checkpoint.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+formulas_checkpoint.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+formulas_checkpoint.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+formulas_checkpoint.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+formulas_checkpoint.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+formulas_checkpoint.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+cleaning_checkpoint.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+cleaning_checkpoint.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+cleaning_checkpoint.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+lookup_checkpoint.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+lookup_checkpoint.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+lookup_checkpoint.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+lookup_checkpoint.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+lookup_checkpoint.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+pivot_reference_checkpoint.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+pivot_reference_checkpoint.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+pivot_reference_checkpoint.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+pivot_reference_checkpoint.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+pivot_reference_checkpoint.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+report_reference_checkpoint.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+report_reference_checkpoint.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+report_reference_checkpoint.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+report_reference_checkpoint.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+report_reference_checkpoint.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+sales_table.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+sales_table.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+sales_table.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+sales_table.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+sales_table.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+sales_calculations.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+sales_calculations.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+sales_calculations.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+sales_calculations.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+sales_calculations.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+sales_cleaned.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+sales_cleaned.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+sales_cleaned.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+sales_enriched.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+sales_enriched.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+sales_enriched.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+sales_enriched.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+sales_enriched.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+pivot_reference.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+pivot_reference.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+pivot_reference.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+pivot_reference.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+pivot_reference.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+excel_report_reference.xlsx cached formula errors,PASS,0,0,Saved XLSX XML + independent Python
+excel_report_reference.xlsx no external links,PASS,False,False,Saved XLSX XML + independent Python
+excel_report_reference.xlsx no VBA,PASS,False,False,Saved XLSX XML + independent Python
+excel_report_reference.xlsx sale-line IDs,PASS,183,183,Saved XLSX XML + independent Python
+excel_report_reference.xlsx typed dates,PASS,True,True,Saved XLSX XML + independent Python
+CH05 starter has no prebuilt table,PASS,0,0,Saved XLSX XML + independent Python
+CH05 solution has a native table,PASS,1,1,Saved XLSX XML + independent Python
+CH06 line 7 sales,PASS,3000.0,3000.0,Saved XLSX XML + independent Python
+CH06 line 8 sales,PASS,1377.0,1377.0,Saved XLSX XML + independent Python
+CH06 line 9 sales,PASS,1120.0,1120.0,Saved XLSX XML + independent Python
+CH06 line 10 sales,PASS,63.0,63.0,Saved XLSX XML + independent Python
+CH06 line 11 sales,PASS,17000.0,17000.0,Saved XLSX XML + independent Python
+CH06 line 12 sales,PASS,480.0,480.0,Saved XLSX XML + independent Python
+CH06 line 13 sales,PASS,1600.0,1600.0,Saved XLSX XML + independent Python
+CH06 line 14 sales,PASS,448.0,448.0,Saved XLSX XML + independent Python
+CH06 line 15 sales,PASS,16000.0,16000.0,Saved XLSX XML + independent Python
+CH06 line 16 sales,PASS,907.2,907.2,Saved XLSX XML + independent Python
+CH06 line 17 sales,PASS,114.0,114.0,Saved XLSX XML + independent Python
+CH06 line 18 sales,PASS,960.0,960.0,Saved XLSX XML + independent Python
+CH06 line 19 sales,PASS,9000.0,9000.0,Saved XLSX XML + independent Python
+CH06 line 20 sales,PASS,216.0,216.0,Saved XLSX XML + independent Python
+CH06 line 21 sales,PASS,950.4,950.4,Saved XLSX XML + independent Python
+CH06 line 22 sales,PASS,6300.0,6300.0,Saved XLSX XML + independent Python
+CH06 line 23 sales,PASS,135.0,135.0,Saved XLSX XML + independent Python
+CH06 line 24 sales,PASS,240.0,240.0,Saved XLSX XML + independent Python
+CH06 line 25 sales,PASS,1260.0,1260.0,Saved XLSX XML + independent Python
+CH06 line 26 sales,PASS,144.0,144.0,Saved XLSX XML + independent Python
+CH06 line 27 sales,PASS,456.0,456.0,Saved XLSX XML + independent Python
+CH06 line 28 sales,PASS,4000.0,4000.0,Saved XLSX XML + independent Python
+CH06 line 29 sales,PASS,558.6,558.6,Saved XLSX XML + independent Python
+CH06 line 30 sales,PASS,720.0,720.0,Saved XLSX XML + independent Python
+CH06 line 31 sales,PASS,10125.0,10125.0,Saved XLSX XML + independent Python
+CH06 line 32 sales,PASS,410.4,410.4,Saved XLSX XML + independent Python
+CH06 line 33 sales,PASS,500.0,500.0,Saved XLSX XML + independent Python
+CH06 line 34 sales,PASS,156.8,156.8,Saved XLSX XML + independent Python
+CH06 line 35 sales,PASS,345.6,345.6,Saved XLSX XML + independent Python
+CH06 line 36 sales,PASS,476.0,476.0,Saved XLSX XML + independent Python
+CH06 line 37 sales,PASS,324.0,324.0,Saved XLSX XML + independent Python
+CH06 line 38 sales,PASS,522.5,522.5,Saved XLSX XML + independent Python
+CH06 line 39 sales,PASS,907.2,907.2,Saved XLSX XML + independent Python
+CH06 line 40 sales,PASS,6650.0,6650.0,Saved XLSX XML + independent Python
+CH06 line 41 sales,PASS,410.4,410.4,Saved XLSX XML + independent Python
+CH06 line 42 sales,PASS,3600.0,3600.0,Saved XLSX XML + independent Python
+CH06 line 43 sales,PASS,448.0,448.0,Saved XLSX XML + independent Python
+CH06 line 44 sales,PASS,356.4,356.4,Saved XLSX XML + independent Python
+CH06 line 45 sales,PASS,1209.6,1209.6,Saved XLSX XML + independent Python
+CH06 line 46 sales,PASS,1152.0,1152.0,Saved XLSX XML + independent Python
+CH06 line 47 sales,PASS,1047.2,1047.2,Saved XLSX XML + independent Python
+CH06 line 48 sales,PASS,2337.5,2337.5,Saved XLSX XML + independent Python
+CH06 line 49 sales,PASS,940.8,940.8,Saved XLSX XML + independent Python
+CH06 line 50 sales,PASS,1539.0,1539.0,Saved XLSX XML + independent Python
+CH06 line 51 sales,PASS,319.2,319.2,Saved XLSX XML + independent Python
+CH06 line 52 sales,PASS,216.0,216.0,Saved XLSX XML + independent Python
+CH06 line 53 sales,PASS,12375.0,12375.0,Saved XLSX XML + independent Python
+CH06 line 54 sales,PASS,1047.2,1047.2,Saved XLSX XML + independent Python
+CH06 line 55 sales,PASS,985.6,985.6,Saved XLSX XML + independent Python
+CH06 line 56 sales,PASS,495.0,495.0,Saved XLSX XML + independent Python
+CH06 line 57 sales,PASS,159.6,159.6,Saved XLSX XML + independent Python
+CH06 line 58 sales,PASS,320.0,320.0,Saved XLSX XML + independent Python
+CH06 line 59 sales,PASS,1836.0,1836.0,Saved XLSX XML + independent Python
+CH06 line 60 sales,PASS,4250.0,4250.0,Saved XLSX XML + independent Python
+CH06 line 61 sales,PASS,918.0,918.0,Saved XLSX XML + independent Python
+CH06 line 62 sales,PASS,10450.0,10450.0,Saved XLSX XML + independent Python
+CH06 line 63 sales,PASS,1440.0,1440.0,Saved XLSX XML + independent Python
+CH06 line 64 sales,PASS,3375.0,3375.0,Saved XLSX XML + independent Python
+CH06 line 65 sales,PASS,810.0,810.0,Saved XLSX XML + independent Python
+CH06 line 66 sales,PASS,2250.0,2250.0,Saved XLSX XML + independent Python
+CH06 line 67 sales,PASS,3562.5,3562.5,Saved XLSX XML + independent Python
+CH06 line 68 sales,PASS,270.0,270.0,Saved XLSX XML + independent Python
+CH06 line 69 sales,PASS,2337.5,2337.5,Saved XLSX XML + independent Python
+CH06 line 70 sales,PASS,11900.0,11900.0,Saved XLSX XML + independent Python
+CH06 line 71 sales,PASS,153.0,153.0,Saved XLSX XML + independent Python
+CH06 line 72 sales,PASS,4675.0,4675.0,Saved XLSX XML + independent Python
+CH06 line 73 sales,PASS,6400.0,6400.0,Saved XLSX XML + independent Python
+CH06 line 74 sales,PASS,1912.5,1912.5,Saved XLSX XML + independent Python
+CH06 line 75 sales,PASS,333.2,333.2,Saved XLSX XML + independent Python
+CH06 line 76 sales,PASS,1536.0,1536.0,Saved XLSX XML + independent Python
+CH06 line 77 sales,PASS,8500.0,8500.0,Saved XLSX XML + independent Python
+CH06 line 78 sales,PASS,319.2,319.2,Saved XLSX XML + independent Python
+CH06 line 79 sales,PASS,95.0,95.0,Saved XLSX XML + independent Python
+CH06 line 80 sales,PASS,2128.0,2128.0,Saved XLSX XML + independent Python
+CH06 line 81 sales,PASS,66.5,66.5,Saved XLSX XML + independent Python
+CH06 line 82 sales,PASS,960.0,960.0,Saved XLSX XML + independent Python
+CH06 line 83 sales,PASS,403.2,403.2,Saved XLSX XML + independent Python
+CH06 line 84 sales,PASS,2700.0,2700.0,Saved XLSX XML + independent Python
+CH06 line 85 sales,PASS,342.0,342.0,Saved XLSX XML + independent Python
+CH06 line 86 sales,PASS,1320.0,1320.0,Saved XLSX XML + independent Python
+CH06 line 87 sales,PASS,268.8,268.8,Saved XLSX XML + independent Python
+CH06 line 88 sales,PASS,382.5,382.5,Saved XLSX XML + independent Python
+CH06 line 89 sales,PASS,8750.0,8750.0,Saved XLSX XML + independent Python
+CH06 line 90 sales,PASS,3000.0,3000.0,Saved XLSX XML + independent Python
+CH06 line 91 sales,PASS,448.0,448.0,Saved XLSX XML + independent Python
+CH06 line 92 sales,PASS,1248.0,1248.0,Saved XLSX XML + independent Python
+CH06 line 93 sales,PASS,1260.0,1260.0,Saved XLSX XML + independent Python
+CH06 line 94 sales,PASS,12600.0,12600.0,Saved XLSX XML + independent Python
+CH06 line 95 sales,PASS,324.0,324.0,Saved XLSX XML + independent Python
+CH06 line 96 sales,PASS,1456.0,1456.0,Saved XLSX XML + independent Python
+CH06 line 97 sales,PASS,336.0,336.0,Saved XLSX XML + independent Python
+CH06 line 98 sales,PASS,2125.0,2125.0,Saved XLSX XML + independent Python
+CH06 line 99 sales,PASS,72.0,72.0,Saved XLSX XML + independent Python
+CH06 line 100 sales,PASS,1728.0,1728.0,Saved XLSX XML + independent Python
+CH06 line 101 sales,PASS,380.8,380.8,Saved XLSX XML + independent Python
+CH06 line 102 sales,PASS,285.6,285.6,Saved XLSX XML + independent Python
+CH06 line 103 sales,PASS,15000.0,15000.0,Saved XLSX XML + independent Python
+CH06 line 104 sales,PASS,6750.0,6750.0,Saved XLSX XML + independent Python
+CH06 line 105 sales,PASS,178.5,178.5,Saved XLSX XML + independent Python
+CH06 line 106 sales,PASS,135.0,135.0,Saved XLSX XML + independent Python
+CH06 line 107 sales,PASS,714.0,714.0,Saved XLSX XML + independent Python
+CH06 line 108 sales,PASS,11200.0,11200.0,Saved XLSX XML + independent Python
+CH06 line 109 sales,PASS,6400.0,6400.0,Saved XLSX XML + independent Python
+CH06 line 110 sales,PASS,14250.0,14250.0,Saved XLSX XML + independent Python
+CH06 line 111 sales,PASS,403.2,403.2,Saved XLSX XML + independent Python
+CH06 line 112 sales,PASS,4950.0,4950.0,Saved XLSX XML + independent Python
+CH06 line 113 sales,PASS,6000.0,6000.0,Saved XLSX XML + independent Python
+CH06 line 114 sales,PASS,940.8,940.8,Saved XLSX XML + independent Python
+CH06 line 115 sales,PASS,1248.0,1248.0,Saved XLSX XML + independent Python
+CH06 line 116 sales,PASS,777.6,777.6,Saved XLSX XML + independent Python
+CH06 line 117 sales,PASS,327.6,327.6,Saved XLSX XML + independent Python
+CH06 line 118 sales,PASS,1680.0,1680.0,Saved XLSX XML + independent Python
+CH06 line 119 sales,PASS,1309.0,1309.0,Saved XLSX XML + independent Python
+CH06 line 120 sales,PASS,638.4,638.4,Saved XLSX XML + independent Python
+CH06 line 121 sales,PASS,1785.0,1785.0,Saved XLSX XML + independent Python
+CH06 line 122 sales,PASS,126.0,126.0,Saved XLSX XML + independent Python
+CH06 line 123 sales,PASS,1187.5,1187.5,Saved XLSX XML + independent Python
+CH06 line 124 sales,PASS,210.0,210.0,Saved XLSX XML + independent Python
+CH06 line 125 sales,PASS,367.2,367.2,Saved XLSX XML + independent Python
+CH06 line 126 sales,PASS,408.0,408.0,Saved XLSX XML + independent Python
+CH06 line 127 sales,PASS,648.0,648.0,Saved XLSX XML + independent Python
+CH06 line 128 sales,PASS,156.8,156.8,Saved XLSX XML + independent Python
+CH06 line 129 sales,PASS,108.0,108.0,Saved XLSX XML + independent Python
+CH06 line 130 sales,PASS,1108.8,1108.8,Saved XLSX XML + independent Python
+CH06 line 131 sales,PASS,224.0,224.0,Saved XLSX XML + independent Python
+CH06 line 132 sales,PASS,4800.0,4800.0,Saved XLSX XML + independent Python
+CH06 line 133 sales,PASS,259.2,259.2,Saved XLSX XML + independent Python
+CH06 line 134 sales,PASS,268.8,268.8,Saved XLSX XML + independent Python
+CH06 line 135 sales,PASS,518.4,518.4,Saved XLSX XML + independent Python
+CH06 line 136 sales,PASS,761.6,761.6,Saved XLSX XML + independent Python
+CH06 line 137 sales,PASS,8000.0,8000.0,Saved XLSX XML + independent Python
+CH06 line 138 sales,PASS,1152.0,1152.0,Saved XLSX XML + independent Python
+CH06 line 139 sales,PASS,360.0,360.0,Saved XLSX XML + independent Python
+CH06 line 140 sales,PASS,1900.0,1900.0,Saved XLSX XML + independent Python
+CH06 line 141 sales,PASS,12000.0,12000.0,Saved XLSX XML + independent Python
+CH06 line 142 sales,PASS,126.0,126.0,Saved XLSX XML + independent Python
+CH06 line 143 sales,PASS,410.4,410.4,Saved XLSX XML + independent Python
+CH06 line 144 sales,PASS,10687.5,10687.5,Saved XLSX XML + independent Python
+CH06 line 145 sales,PASS,319.2,319.2,Saved XLSX XML + independent Python
+CH06 line 146 sales,PASS,4200.0,4200.0,Saved XLSX XML + independent Python
+CH06 line 147 sales,PASS,595.0,595.0,Saved XLSX XML + independent Python
+CH06 line 148 sales,PASS,2100.0,2100.0,Saved XLSX XML + independent Python
+CH06 line 149 sales,PASS,176.4,176.4,Saved XLSX XML + independent Python
+CH06 line 150 sales,PASS,3400.0,3400.0,Saved XLSX XML + independent Python
+CH06 line 151 sales,PASS,840.0,840.0,Saved XLSX XML + independent Python
+CH06 line 152 sales,PASS,1344.0,1344.0,Saved XLSX XML + independent Python
+CH06 line 153 sales,PASS,1209.6,1209.6,Saved XLSX XML + independent Python
+CH06 line 154 sales,PASS,382.5,382.5,Saved XLSX XML + independent Python
+CH06 line 155 sales,PASS,194.4,194.4,Saved XLSX XML + independent Python
+CH06 line 156 sales,PASS,144.0,144.0,Saved XLSX XML + independent Python
+CH06 line 157 sales,PASS,306.0,306.0,Saved XLSX XML + independent Python
+CH06 line 158 sales,PASS,7437.5,7437.5,Saved XLSX XML + independent Python
+CH06 line 159 sales,PASS,1285.2,1285.2,Saved XLSX XML + independent Python
+CH06 line 160 sales,PASS,378.0,378.0,Saved XLSX XML + independent Python
+CH06 line 161 sales,PASS,8800.0,8800.0,Saved XLSX XML + independent Python
+CH06 line 162 sales,PASS,81.0,81.0,Saved XLSX XML + independent Python
+CH06 line 163 sales,PASS,990.0,990.0,Saved XLSX XML + independent Python
+CH06 line 164 sales,PASS,7875.0,7875.0,Saved XLSX XML + independent Python
+CH06 line 165 sales,PASS,11900.0,11900.0,Saved XLSX XML + independent Python
+CH06 line 166 sales,PASS,270.0,270.0,Saved XLSX XML + independent Python
+CH06 line 167 sales,PASS,262.5,262.5,Saved XLSX XML + independent Python
+CH06 line 168 sales,PASS,10000.0,10000.0,Saved XLSX XML + independent Python
+CH06 line 169 sales,PASS,1209.6,1209.6,Saved XLSX XML + independent Python
+CH06 line 170 sales,PASS,198.0,198.0,Saved XLSX XML + independent Python
+CH06 line 171 sales,PASS,2450.0,2450.0,Saved XLSX XML + independent Python
+CH06 line 172 sales,PASS,810.0,810.0,Saved XLSX XML + independent Python
+CH06 line 173 sales,PASS,288.0,288.0,Saved XLSX XML + independent Python
+CH06 line 174 sales,PASS,1075.2,1075.2,Saved XLSX XML + independent Python
+CH06 line 175 sales,PASS,306.0,306.0,Saved XLSX XML + independent Python
+CH06 line 176 sales,PASS,358.4,358.4,Saved XLSX XML + independent Python
+CH06 line 177 sales,PASS,476.0,476.0,Saved XLSX XML + independent Python
+CH06 line 178 sales,PASS,10000.0,10000.0,Saved XLSX XML + independent Python
+CH06 line 179 sales,PASS,1530.0,1530.0,Saved XLSX XML + independent Python
+CH06 line 180 sales,PASS,4500.0,4500.0,Saved XLSX XML + independent Python
+CH06 line 181 sales,PASS,12000.0,12000.0,Saved XLSX XML + independent Python
+CH06 line 182 sales,PASS,255.0,255.0,Saved XLSX XML + independent Python
+CH06 line 183 sales,PASS,14000.0,14000.0,Saved XLSX XML + independent Python
+CH06 line 184 sales,PASS,1296.0,1296.0,Saved XLSX XML + independent Python
+CH06 line 185 sales,PASS,14875.0,14875.0,Saved XLSX XML + independent Python
+CH06 line 186 sales,PASS,1296.0,1296.0,Saved XLSX XML + independent Python
+CH06 line 187 sales,PASS,380.8,380.8,Saved XLSX XML + independent Python
+CH06 line 188 sales,PASS,640.0,640.0,Saved XLSX XML + independent Python
+CH06 line 189 sales,PASS,11250.0,11250.0,Saved XLSX XML + independent Python
+CH06 per-line extra discount,PASS,24524.669999999995,24524.67,Saved XLSX XML + independent Python
+CH06 adjusted scenario,PASS,465967.43000000005,465967.43,Saved XLSX XML + independent Python
+CH06 intentional wrong demonstration,PASS,0.0,0,Saved XLSX XML + independent Python
+CH06 corrected fixed reference,PASS,15.0,15,Saved XLSX XML + independent Python
+Raw import unchanged in solution,PASS,True,True,Saved XLSX XML + independent Python
+Raw import unchanged in starter,PASS,True,True,Saved XLSX XML + independent Python
+CH07 accepted rows,PASS,197,197,Saved XLSX XML + independent Python
+CH07 accepted sales,PASS,444087.0,444087,Saved XLSX XML + independent Python
+CH07 quarantined rows,PASS,5,5,Saved XLSX XML + independent Python
+CH08 unmatched row,PASS,Unmatched,Unmatched,Saved XLSX XML + independent Python
+CH08 all matched categories agree with fallback,PASS,True,True,Saved XLSX XML + independent Python
+CH08 sales retained,PASS,490492.1,490492.1,Saved XLSX XML + independent Python
+pivot_reference.xlsx grand total,PASS,490492.1,490492.1,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-01,PASS,59910.6,59910.6,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-02,PASS,20906.1,20906.1,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-03,PASS,32601.1,32601.1,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-04,PASS,34506.4,34506.4,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-05,PASS,39381.59999999999,39381.6,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-06,PASS,36560.3,36560.3,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-07,PASS,62447.1,62447.1,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-08,PASS,19026.699999999997,19026.7,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-09,PASS,41787.1,41787.1,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-10,PASS,23614.600000000002,23614.6,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-11,PASS,45512.1,45512.1,Saved XLSX XML + independent Python
+pivot_reference.xlsx 2025-12,PASS,74238.4,74238.4,Saved XLSX XML + independent Python
+pivot_reference.xlsx S01,PASS,60028.4,60028.4,Saved XLSX XML + independent Python
+pivot_reference.xlsx S02,PASS,46777.0,46777.0,Saved XLSX XML + independent Python
+pivot_reference.xlsx S03,PASS,24507.8,24507.8,Saved XLSX XML + independent Python
+pivot_reference.xlsx S04,PASS,66440.5,66440.5,Saved XLSX XML + independent Python
+pivot_reference.xlsx S05,PASS,67386.5,67386.5,Saved XLSX XML + independent Python
+pivot_reference.xlsx S06,PASS,49405.2,49405.2,Saved XLSX XML + independent Python
+pivot_reference.xlsx WEB,PASS,175946.7,175946.7,Saved XLSX XML + independent Python
+pivot_reference.xlsx native pivots explicitly absent,PASS,False,False,Saved XLSX XML + independent Python
+report_start.xlsx grand total,PASS,490492.1,490492.1,Saved XLSX XML + independent Python
+report_start.xlsx 2025-01,PASS,59910.6,59910.6,Saved XLSX XML + independent Python
+report_start.xlsx 2025-02,PASS,20906.1,20906.1,Saved XLSX XML + independent Python
+report_start.xlsx 2025-03,PASS,32601.1,32601.1,Saved XLSX XML + independent Python
+report_start.xlsx 2025-04,PASS,34506.4,34506.4,Saved XLSX XML + independent Python
+report_start.xlsx 2025-05,PASS,39381.59999999999,39381.6,Saved XLSX XML + independent Python
+report_start.xlsx 2025-06,PASS,36560.3,36560.3,Saved XLSX XML + independent Python
+report_start.xlsx 2025-07,PASS,62447.1,62447.1,Saved XLSX XML + independent Python
+report_start.xlsx 2025-08,PASS,19026.699999999997,19026.7,Saved XLSX XML + independent Python
+report_start.xlsx 2025-09,PASS,41787.1,41787.1,Saved XLSX XML + independent Python
+report_start.xlsx 2025-10,PASS,23614.600000000002,23614.6,Saved XLSX XML + independent Python
+report_start.xlsx 2025-11,PASS,45512.1,45512.1,Saved XLSX XML + independent Python
+report_start.xlsx 2025-12,PASS,74238.4,74238.4,Saved XLSX XML + independent Python
+report_start.xlsx S01,PASS,60028.4,60028.4,Saved XLSX XML + independent Python
+report_start.xlsx S02,PASS,46777.0,46777.0,Saved XLSX XML + independent Python
+report_start.xlsx S03,PASS,24507.8,24507.8,Saved XLSX XML + independent Python
+report_start.xlsx S04,PASS,66440.5,66440.5,Saved XLSX XML + independent Python
+report_start.xlsx S05,PASS,67386.5,67386.5,Saved XLSX XML + independent Python
+report_start.xlsx S06,PASS,49405.2,49405.2,Saved XLSX XML + independent Python
+report_start.xlsx WEB,PASS,175946.7,175946.7,Saved XLSX XML + independent Python
+report_start.xlsx native pivots explicitly absent,PASS,False,False,Saved XLSX XML + independent Python
+excel_report_reference.xlsx grand total,PASS,490492.1,490492.1,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-01,PASS,59910.6,59910.6,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-02,PASS,20906.1,20906.1,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-03,PASS,32601.1,32601.1,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-04,PASS,34506.4,34506.4,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-05,PASS,39381.59999999999,39381.6,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-06,PASS,36560.3,36560.3,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-07,PASS,62447.1,62447.1,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-08,PASS,19026.699999999997,19026.7,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-09,PASS,41787.1,41787.1,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-10,PASS,23614.600000000002,23614.6,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-11,PASS,45512.1,45512.1,Saved XLSX XML + independent Python
+excel_report_reference.xlsx 2025-12,PASS,74238.4,74238.4,Saved XLSX XML + independent Python
+excel_report_reference.xlsx S01,PASS,60028.4,60028.4,Saved XLSX XML + independent Python
+excel_report_reference.xlsx S02,PASS,46777.0,46777.0,Saved XLSX XML + independent Python
+excel_report_reference.xlsx S03,PASS,24507.8,24507.8,Saved XLSX XML + independent Python
+excel_report_reference.xlsx S04,PASS,66440.5,66440.5,Saved XLSX XML + independent Python
+excel_report_reference.xlsx S05,PASS,67386.5,67386.5,Saved XLSX XML + independent Python
+excel_report_reference.xlsx S06,PASS,49405.2,49405.2,Saved XLSX XML + independent Python
+excel_report_reference.xlsx WEB,PASS,175946.7,175946.7,Saved XLSX XML + independent Python
+excel_report_reference.xlsx native pivots explicitly absent,PASS,False,False,Saved XLSX XML + independent Python
+CH10 distinct order count,PASS,72.0,72,Saved XLSX XML + independent Python
+CH10 two editable chart parts,PASS,2,2,Saved XLSX XML + independent Python
+CH10 charts have cell bindings,PASS,True,True,Saved XLSX XML + independent Python
+ch10 restart is verified solution/reference copy,PASS,6d58a2480758473a18d3855b2860e1a3c81aa71b5f34435916c18260799275ea,6d58a2480758473a18d3855b2860e1a3c81aa71b5f34435916c18260799275ea,Saved XLSX XML + independent Python
+ch09 restart is verified solution/reference copy,PASS,96b8455480f9d7ea52dca9d4d466b424c69fe2c2cf45a800ac3a36768334cb6b,96b8455480f9d7ea52dca9d4d466b424c69fe2c2cf45a800ac3a36768334cb6b,Saved XLSX XML + independent Python
+ch07 restart is verified solution/reference copy,PASS,adf9bb25280622599ca4fad525921579c80e8bea1b64d92bb713f5a2916c8c3b,adf9bb25280622599ca4fad525921579c80e8bea1b64d92bb713f5a2916c8c3b,Saved XLSX XML + independent Python
+ch08 restart is verified solution/reference copy,PASS,be93552bfcea4b2520edccfbca00e5f3139a45a61fbdfe40c19736b41bfaf1f7,be93552bfcea4b2520edccfbca00e5f3139a45a61fbdfe40c19736b41bfaf1f7,Saved XLSX XML + independent Python
+ch05 restart is verified solution/reference copy,PASS,aee423241b1c09c101938611ea853b744c67bc25281453898c5e4ab13e197c09,aee423241b1c09c101938611ea853b744c67bc25281453898c5e4ab13e197c09,Saved XLSX XML + independent Python
+ch06 restart is verified solution/reference copy,PASS,9d96508291d3a8afa3a6d95777cfbcdf9107cc2f9809ec1b28afbac2d18cea94,9d96508291d3a8afa3a6d95777cfbcdf9107cc2f9809ec1b28afbac2d18cea94,Saved XLSX XML + independent Python

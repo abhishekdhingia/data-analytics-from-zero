@@ -1,0 +1,46 @@
+exercise_id,metric,expected_value,unit,scope,source_revision,tolerance
+CH05-E04,sales_after_discount,490492.1,INR,183-line selected sample; refunds excluded,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH06-E01,sales_after_discount,490492.1,INR,183-line selected sample; refunds excluded,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH08-E03,sales_after_discount,490492.1,INR,183-line selected sample; refunds excluded,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E01,sales_after_discount,490492.1,INR,183-line selected sample; refunds excluded,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH10-E02,sales_after_discount,490492.1,INR,183-line selected sample; refunds excluded,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH05-E01,rows,183,rows,sample,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH05-E03,visible_rows,8,rows,S01 / Electronics,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH05-E03,visible_sales,47187.5,INR,S01 / Electronics,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH06-E01,gross_sales,557026.0,INR,sample,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH06-E01,line_discounts,66533.9,INR,sample,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH06-E02,extra_discount_5_percent,24524.67,INR,round each line then sum,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH06-E02,after_extra_discount,465967.43,INR,hypothetical only,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH06-E03,S01_sales,60028.4,INR,S01,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH06-E04,zero_denominator,Undefined,text,no zero substitution,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH07-E01,raw_rows,202,rows,dirty source,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH07-E04,accepted_rows,197,rows,approved subset,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH07-E04,quarantine_rows,5,rows,three unresolved and two duplicates,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH07-E05,accepted_sales,444087,INR,different source from shared sample,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH08-E03,unmatched_rows,1,rows,P999 retained,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH08-E04,matched_rows_after_normalization,182,rows,unique product master,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-01,59910.6,INR,2025-01,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-02,20906.1,INR,2025-02,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-03,32601.1,INR,2025-03,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-04,34506.4,INR,2025-04,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-05,39381.6,INR,2025-05,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-06,36560.3,INR,2025-06,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-07,62447.1,INR,2025-07,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-08,19026.7,INR,2025-08,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-09,41787.1,INR,2025-09,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-10,23614.6,INR,2025-10,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-11,45512.1,INR,2025-11,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E02,sales_2025-12,74238.4,INR,2025-12,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,sales_Electronics,405987.5,INR,Electronics,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,units_Electronics,174,units,Electronics,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,sales_Home care,18190.8,INR,Home care,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,units_Home care,82,units,Home care,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,sales_Kitchen,26107.2,INR,Kitchen,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,units_Kitchen,80,units,Kitchen,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,sales_Personal care,30630.6,INR,Personal care,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,units_Personal care,114,units,Personal care,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,sales_Stationery,9576.0,INR,Stationery,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E03,units_Stationery,106,units,Stationery,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E04,refresh_delta,324,INR,one test row appended once,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E04,refreshed_sales,490816.1,INR,native pivot refresh pending,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
+CH09-E05,distinct_orders,72,orders,full sample,Excel pack 0.2 / foundation 0.1.0,0.01 INR; counts exact
