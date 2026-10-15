@@ -1,0 +1,6 @@
+source_row_id,order_item_id,order_date,product_id,category,quantity,unit_price_inr,discount_inr,customer_id
+SRC0011,L2025-000013,2025-01-01,P003,Kitchen,1,,50.40,C02372
+SRC0013,L2025-000015,2025-01-01,P006,Kitchen,two,360.00,54.00,C02372
+SRC0015,L2025-000017,2025-01-01,P999,Home care,1,168.00,33.60,C02467
+SRC0201,L2025-000023,2025-01-01,P050,Electronics,3,1500.00,675.00,
+SRC0202,L2025-000033,2025-01-01,P037,Personal care,4,140.00,112.00,C02322

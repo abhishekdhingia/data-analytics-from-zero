@@ -1,0 +1,3 @@
+# Why the totals change
+J1 has two return events. Joining events directly repeats its 100,000 paise sale, adding INR 1,000 to the apparent revenue. Four joined rows do not mean four sales. Aggregating returns by line first restores three rows, INR 3,500 sales and INR 600 refunds. A LEFT JOIN retains J2 even though it has no return. This fixture demonstrates one-to-many multiplication; joining two repeated event tables would create a many-to-many multiplication risk.
+E01 uses completed core sales only; enrichment must preserve count and amount. E02 returns A2 (unknown key) and A3 (missing key). The canonical core has no unmatched product keys.
